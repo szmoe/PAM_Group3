@@ -144,8 +144,80 @@ fwrite(cleaned, "Total_recorded_species_Group3.csv")
 df <- read.csv("Total_recorded_species_Group3.csv")
 nrow(df)
 
+# Display species variations
+
+library(tidyverse)
+library(chillR)
+
+# Read CSV file
+species_data <- read_csv("./Total_recorded_species/Species_list_Group3.csv")
+
+# Create presence/absence matrix
+# species_matrix <- species_data %>%
+#   distinct(Common.name, Site_ID) %>%
+#   mutate(present = 1) %>%
+#   pivot_wider(names_from = Site_ID, values_from = present, values_fill = 0)
+
+# Convert to long format for ggplot
+species_long <- species_matrix %>%
+  pivot_longer(-Common.name, names_to = "Site_ID", values_to = "Presence")
+
+levels(species_long$Site_ID)
 
 
+library(ggplot2)
+library(forcats)
+
+# Change the character to numeric and display Site_ID in chronological order
+species_long$Site_ID <- factor(as.numeric(as.character(species_long$Site_ID)),
+                               levels = sort(unique(as.numeric(as.character(species_long$Site_ID)))))
+levels(species_long$Site_ID)
+
+# Plot heatmap
+p_species <- ggplot(species_long, aes(x = fct_reorder(Common.name, Presence, .fun = sum),
+                                      y = Site_ID,
+                                      fill = as.factor(Presence))) +
+  geom_tile(color = "white") +
+  scale_fill_manual(values = c("0" = "#FFD700", "1" = "#FF8C00"), name = "Presence",
+                    labels = c("0" = "FALSE", "1" = "TRUE")) +
+  labs(
+    title = "Species Presence Across Sites",
+    x = "Species (Common Name)",
+    y = "Site ID"
+  ) +
+  scale_y_discrete(limits = rev(levels(species_long$Site_ID))) + # reverses y-axis order
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 75, hjust = 1, vjust = 1, size = 7),
+    axis.text.y = element_text(size = 9),
+    plot.title = element_text(hjust = 0.5),
+    legend.position = "right"
+  )
 
 
+p_species
+  
+# Change orientation
+p_species <- ggplot(species_long, aes(x = Site_ID,
+                                      y = fct_reorder(Common.name, Presence, .fun = sum),
+                                      fill = as.factor(Presence))) +
+  geom_tile(color = "white") +
+  scale_fill_manual(values = c("0" = "#FFD700", "1" = "#FF8C00"), name = "Presence",
+                    labels = c("0" = "FALSE", "1" = "TRUE")) +
+  labs(
+    title = "Species Presence Across Sites",
+    y = "Species (Common Name)",
+    x = "Site ID"
+  ) +
+ # scale_y_discrete(limits = rev(levels(species_long$Site_ID))) + 
+  theme_minimal() 
+  # theme(
+  #   axis.text.x = element_text(angle = 75, hjust = 1, vjust = 1, size = 7),
+  #   axis.text.y = element_text(size = 9),
+  #   plot.title = element_text(hjust = 0.5),
+  #   legend.position = "right"
+  # )
+
+
+p_species
 
