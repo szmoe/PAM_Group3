@@ -1,7 +1,7 @@
 # Clean Moe's data
 # List all CSV files in a folder
-file_moe1 <- list.files(path = "XA23_Moe", pattern = "*.csv", full.names = TRUE)
-file_moe2 <- list.files(path = "A025_Moe", pattern = "*.csv", full.names = TRUE)
+file_moe1 <- list.files(path = "./BIRDNET_data/XA23_Moe", pattern = "*.csv", full.names = TRUE)
+file_moe2 <- list.files(path = "./BIRDNET_data/A025_Moe", pattern = "*.csv", full.names = TRUE)
 
 # Read all CSVs into a list of data frames
 dfs_moe1 <- lapply(file_moe1, read.csv)
@@ -44,8 +44,8 @@ write.csv(merged_moe, "A025_xA23_species_list_Moe.csv", row.names = FALSE)
 
 # Clean Robin's data
 # List all CSV files in a folder
-file_robin1 <- list.files(path = "A024_Robin", pattern = "*.csv", full.names = TRUE)
-file_robin2 <- list.files(path = "A027_Robin", pattern = "*.csv", full.names = TRUE)
+file_robin1 <- list.files(path = "./BIRDNET_data/A024_Robin", pattern = "*.csv", full.names = TRUE)
+file_robin2 <- list.files(path = "./BIRDNET_data/A027_Robin", pattern = "*.csv", full.names = TRUE)
 
 # Read all CSVs into a list of data frames
 dfs_robin1 <- lapply(file_robin1, read.csv)
@@ -88,7 +88,7 @@ write.csv(merged_robin, "A024_A027_species_list_Robin.csv", row.names = FALSE)
 
 # Clean Malte's data
 
-merged_unique_malte <- read_csv("A030_Malte.csv")
+merged_unique_malte <- read_csv("./BIRDNET_data/A030_Malte.csv")
 
 # Add new column 'Site_ID' 
 merged_unique_malte$Audio_ID <- "A030"

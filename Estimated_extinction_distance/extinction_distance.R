@@ -6,8 +6,8 @@ library(ggplot2)
 library(kableExtra)
 library(knitr)
 # import csv containing ambient sound and sound transmission amplitudes
-detection.spaces0<-fread("Group3_Malte_Robin_Moe.csv")
-# detection.spaces0<-fread("detection_space.csv")
+detection.spaces0<-fread("./Estimated_extinction_distance/Group3_Malte_Robin_Moe.csv")
+# detection.spaces0<-fread("./Estimated_extinction_distance/detection_space.csv")
 
 
 #'log-transform distances
