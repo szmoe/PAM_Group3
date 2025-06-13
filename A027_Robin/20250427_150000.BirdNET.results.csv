@@ -1,0 +1,61 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Sylvia atricapilla,Eurasian Blackcap,0.5844,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+51.0,54.0,Carduelis carduelis,European Goldfinch,0.1247,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+123.0,126.0,Emberiza citrinella,Yellowhammer,0.2892,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+135.0,138.0,Parus major,Great Tit,0.9211,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+141.0,144.0,Parus major,Great Tit,0.5066,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+144.0,147.0,Parus major,Great Tit,0.3897,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+177.0,180.0,Chloris chloris,European Greenfinch,0.1044,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+201.0,204.0,Emberiza citrinella,Yellowhammer,0.5282,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+210.0,213.0,Emberiza citrinella,Yellowhammer,0.6500,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+219.0,222.0,Emberiza citrinella,Yellowhammer,0.5083,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+231.0,234.0,Emberiza citrinella,Yellowhammer,0.5618,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+261.0,264.0,Turdus philomelos,Song Thrush,0.1048,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+279.0,282.0,Fulica atra,Eurasian Coot,0.1019,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+300.0,303.0,Turdus merula,Eurasian Blackbird,0.1194,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+318.0,321.0,Sylvia atricapilla,Eurasian Blackcap,0.8720,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+381.0,384.0,Sylvia atricapilla,Eurasian Blackcap,0.2425,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+384.0,387.0,Turdus merula,Eurasian Blackbird,0.2351,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+396.0,399.0,Turdus merula,Eurasian Blackbird,0.1706,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+402.0,405.0,Parus major,Great Tit,0.3727,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+420.0,423.0,Cyanistes caeruleus,Eurasian Blue Tit,0.4053,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+423.0,426.0,Corvus corone,Carrion Crow,0.2068,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+426.0,429.0,Actitis hypoleucos,Common Sandpiper,0.5322,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+426.0,429.0,Corvus corone,Carrion Crow,0.1089,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+429.0,432.0,Regulus ignicapilla,Common Firecrest,0.1436,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+438.0,441.0,Sylvia atricapilla,Eurasian Blackcap,0.2465,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+447.0,450.0,Cyanistes caeruleus,Eurasian Blue Tit,0.3460,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+447.0,450.0,Actitis hypoleucos,Common Sandpiper,0.3188,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+450.0,453.0,Cyanistes caeruleus,Eurasian Blue Tit,0.1706,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+453.0,456.0,Actitis hypoleucos,Common Sandpiper,0.6347,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+456.0,459.0,Erithacus rubecula,European Robin,0.1298,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+459.0,462.0,Cyanistes caeruleus,Eurasian Blue Tit,0.9265,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+462.0,465.0,Sylvia atricapilla,Eurasian Blackcap,0.2642,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+465.0,468.0,Turdus merula,Eurasian Blackbird,0.1521,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+468.0,471.0,Cyanistes caeruleus,Eurasian Blue Tit,0.4892,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+474.0,477.0,Corvus corone,Carrion Crow,0.6358,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+477.0,480.0,Corvus corone,Carrion Crow,0.2467,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+480.0,483.0,Cyanistes caeruleus,Eurasian Blue Tit,0.8079,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+483.0,486.0,Cyanistes caeruleus,Eurasian Blue Tit,0.3779,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+483.0,486.0,Corvus corone,Carrion Crow,0.1774,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+483.0,486.0,Actitis hypoleucos,Common Sandpiper,0.1272,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+486.0,489.0,Corvus corone,Carrion Crow,0.5248,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+489.0,492.0,Actitis hypoleucos,Common Sandpiper,0.6867,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+498.0,501.0,Corvus corone,Carrion Crow,0.6202,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+501.0,504.0,Corvus corone,Carrion Crow,0.2360,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+504.0,507.0,Larus argentatus,Herring Gull,0.1403,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+507.0,510.0,Corvus corone,Carrion Crow,0.4265,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+516.0,519.0,Corvus corone,Carrion Crow,0.6440,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+519.0,522.0,Cyanistes caeruleus,Eurasian Blue Tit,0.9109,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+522.0,525.0,Cyanistes caeruleus,Eurasian Blue Tit,0.3823,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+525.0,528.0,Actitis hypoleucos,Common Sandpiper,0.5563,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+525.0,528.0,Corvus corone,Carrion Crow,0.2039,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+528.0,531.0,Corvus corone,Carrion Crow,0.3863,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+555.0,558.0,Corvus corone,Carrion Crow,0.5300,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+579.0,582.0,Aegithalos caudatus,Long-tailed Tit,0.2502,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+579.0,582.0,Cyanistes caeruleus,Eurasian Blue Tit,0.2423,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+585.0,588.0,Cyanistes caeruleus,Eurasian Blue Tit,0.4586,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+588.0,591.0,Cyanistes caeruleus,Eurasian Blue Tit,0.5173,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+591.0,594.0,Corvus corone,Carrion Crow,0.1141,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+594.0,597.0,Cyanistes caeruleus,Eurasian Blue Tit,0.4259,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
+597.0,600.0,Cyanistes caeruleus,Eurasian Blue Tit,0.4837,F:/soundscape ecology/data/10m_1h/A027\20250427_150000.WAV
