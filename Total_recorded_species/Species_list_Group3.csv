@@ -1,0 +1,524 @@
+"Scientific.name","Common.name","Audio_ID","Site_ID"
+"Turdus merula","Eurasian Blackbird","A027",6
+"Sturnus vulgaris","European Starling","A027",6
+"Parus major","Great Tit","A027",6
+"Phalacrocorax carbo","Great Cormorant","A027",6
+"Emberiza citrinella","Yellowhammer","A027",6
+"Milvus milvus","Red Kite","A027",6
+"Curruca communis","Greater Whitethroat","A027",6
+"Jynx torquilla","Eurasian Wryneck","A027",6
+"Sylvia borin","Garden Warbler","A027",6
+"Lanius collurio","Red-backed Shrike","A027",6
+"Sylvia atricapilla","Eurasian Blackcap","A027",6
+"Hippolais polyglotta","Melodious Warbler","A027",6
+"Phoenicurus ochruros","Black Redstart","A027",6
+"Motacilla cinerea","Gray Wagtail","A027",6
+"Cyanistes caeruleus","Eurasian Blue Tit","A027",6
+"Picus viridis","Eurasian Green Woodpecker","A027",6
+"Buteo buteo","Common Buzzard","A027",6
+"Circus aeruginosus","Eurasian Marsh-Harrier","A027",6
+"Lullula arborea","Wood Lark","A027",6
+"Gallinula chloropus","Eurasian Moorhen","A027",6
+"Chlidonias niger","Black Tern","A027",6
+"Charadrius hiaticula","Common Ringed Plover","A027",6
+"Phylloscopus trochilus","Willow Warbler","A027",6
+"Corvus corone","Carrion Crow","A027",6
+"Turdus viscivorus","Mistle Thrush","A027",6
+"Dendrocopos major","Great Spotted Woodpecker","A027",6
+"Oriolus oriolus","Eurasian Golden Oriole","A027",6
+"Numenius arquata","Eurasian Curlew","A027",6
+"Phylloscopus collybita","Common Chiffchaff","A027",6
+"Phoenicurus phoenicurus","Common Redstart","A027",6
+"Motacilla alba","White Wagtail","A027",6
+"Carduelis carduelis","European Goldfinch","A027",6
+"Certhia brachydactyla","Short-toed Treecreeper","A027",6
+"Anas platyrhynchos","Mallard","A027",6
+"Mareca strepera","Gadwall","A027",6
+"Pyrrhula pyrrhula","Eurasian Bullfinch","A027",6
+"Streptopelia turtur","European Turtle-Dove","A027",6
+"Turdus pilaris","Fieldfare","A027",6
+"Tringa ochropus","Green Sandpiper","A027",6
+"Charadrius dubius","Little Ringed Plover","A027",6
+"Falco tinnunculus","Eurasian Kestrel","A027",6
+"Turdus philomelos","Song Thrush","A027",6
+"Branta canadensis","Canada Goose","A027",6
+"Emberiza calandra","Corn Bunting","A027",6
+"Locustella naevia","Common Grasshopper-Warbler","A027",6
+"Fulica atra","Eurasian Coot","A027",6
+"Erithacus rubecula","European Robin","A027",6
+"Corvus frugilegus","Rook","A027",6
+"Regulus ignicapilla","Common Firecrest","A027",6
+"Aegithalos caudatus","Long-tailed Tit","A027",6
+"Curruca curruca","Lesser Whitethroat","A027",6
+"Certhia familiaris","Eurasian Treecreeper","A027",6
+"Troglodytes troglodytes","Eurasian Wren","A027",6
+"Anthus trivialis","Tree Pipit","A027",6
+"Columba palumbus","Common Wood-Pigeon","A027",6
+"Motacilla flava","Western Yellow Wagtail","A027",6
+"Muscicapa striata","Spotted Flycatcher","A027",6
+"Ardea cinerea","Gray Heron","A027",6
+"Columba oenas","Stock Dove","A027",6
+"Prunella modularis","Dunnock","A027",6
+"Pica pica","Eurasian Magpie","A027",6
+"Saxicola rubetra","Whinchat","A027",6
+"Chloris chloris","European Greenfinch","A027",6
+"Anthus pratensis","Meadow Pipit","A027",6
+"Dendrocoptes medius","Middle Spotted Woodpecker","A027",6
+"Sitta europaea","Eurasian Nuthatch","A027",6
+"Regulus regulus","Goldcrest","A027",6
+"Saxicola rubicola","European Stonechat","A027",6
+"Emberiza schoeniclus","Reed Bunting","A027",6
+"Poecile palustris","Marsh Tit","A027",6
+"Luscinia megarhynchos","Common Nightingale","A027",6
+"Acrocephalus palustris","Marsh Warbler","A027",6
+"Periparus ater","Coal Tit","A027",6
+"Streptopelia decaocto","Eurasian Collared-Dove","A027",6
+"Fringilla coelebs","Common Chaffinch","A027",6
+"Rallus aquaticus","Water Rail","A027",6
+"Hirundo rustica","Barn Swallow","A027",6
+"Alauda arvensis","Eurasian Skylark","A027",6
+"Lophophanes cristatus","Crested Tit","A027",6
+"Tringa totanus","Common Redshank","A027",6
+"Tringa nebularia","Common Greenshank","A027",6
+"Cygnus olor","Mute Swan","A027",6
+"Linaria cannabina","Eurasian Linnet","A027",6
+"Cettia cetti","Cetti's Warbler","A027",6
+"Ciconia ciconia","White Stork","A027",6
+"Grus grus","Common Crane","A027",6
+"Anas crecca","Green-winged Teal","A027",6
+"Recurvirostra avosetta","Pied Avocet","A027",6
+"Cuculus canorus","Common Cuckoo","A027",6
+"Dryocopus martius","Black Woodpecker","A027",6
+"Spinus spinus","Eurasian Siskin","A027",6
+"Serinus serinus","European Serin","A027",6
+"Coccothraustes coccothraustes","Hawfinch","A027",6
+"Anser anser","Graylag Goose","A027",6
+"Garrulus glandarius","Eurasian Jay","A027",6
+"Alopochen aegyptiaca","Egyptian Goose","A027",6
+"Ardea alba","Great Egret","A027",6
+"Acrocephalus scirpaceus","Eurasian Reed Warbler","A027",6
+"Luscinia svecica","Bluethroat","A027",6
+"Acrocephalus schoenobaenus","Sedge Warbler","A027",6
+"Columba livia","Rock Pigeon","A027",6
+"Actitis hypoleucos","Common Sandpiper","A027",6
+"Larus argentatus","Herring Gull","A027",6
+"Phylloscopus sibilatrix","Wood Warbler","A027",6
+"Corvus monedula","Eurasian Jackdaw","A027",6
+"Bubulcus ibis","Cattle Egret","A027",6
+"Phasianus colchicus","Ring-necked Pheasant","A027",6
+"Oenanthe oenanthe","Northern Wheatear","A027",6
+"Egretta garzetta","Little Egret","A027",6
+"Apus apus","Common Swift","A027",6
+"Psittacula krameri","Rose-ringed Parakeet","A027",6
+"Mareca penelope","Eurasian Wigeon","A027",6
+"Phylloscopus collybita","Common Chiffchaff","A024",7
+"Motacilla alba","White Wagtail","A024",7
+"Parus major","Great Tit","A024",7
+"Turdus merula","Eurasian Blackbird","A024",7
+"Streptopelia turtur","European Turtle-Dove","A024",7
+"Streptopelia decaocto","Eurasian Collared-Dove","A024",7
+"Milvus milvus","Red Kite","A024",7
+"Buteo buteo","Common Buzzard","A024",7
+"Cuculus canorus","Common Cuckoo","A024",7
+"Emberiza schoeniclus","Reed Bunting","A024",7
+"Acrocephalus scirpaceus","Eurasian Reed Warbler","A024",7
+"Curruca communis","Greater Whitethroat","A024",7
+"Oriolus oriolus","Eurasian Golden Oriole","A024",7
+"Sylvia atricapilla","Eurasian Blackcap","A024",7
+"Branta canadensis","Canada Goose","A024",7
+"Cyanistes caeruleus","Eurasian Blue Tit","A024",7
+"Curruca curruca","Lesser Whitethroat","A024",7
+"Columba palumbus","Common Wood-Pigeon","A024",7
+"Hippolais polyglotta","Melodious Warbler","A024",7
+"Sylvia borin","Garden Warbler","A024",7
+"Prunella modularis","Dunnock","A024",7
+"Aegithalos caudatus","Long-tailed Tit","A024",7
+"Luscinia megarhynchos","Common Nightingale","A024",7
+"Acrocephalus palustris","Marsh Warbler","A024",7
+"Rallus aquaticus","Water Rail","A024",7
+"Acrocephalus arundinaceus","Great Reed Warbler","A024",7
+"Motacilla flava","Western Yellow Wagtail","A024",7
+"Charadrius hiaticula","Common Ringed Plover","A024",7
+"Anthus trivialis","Tree Pipit","A024",7
+"Larus argentatus","Herring Gull","A024",7
+"Sturnus vulgaris","European Starling","A024",7
+"Serinus serinus","European Serin","A024",7
+"Motacilla cinerea","Gray Wagtail","A024",7
+"Turdus philomelos","Song Thrush","A024",7
+"Carduelis carduelis","European Goldfinch","A024",7
+"Psittacula krameri","Rose-ringed Parakeet","A024",7
+"Troglodytes troglodytes","Eurasian Wren","A024",7
+"Picus viridis","Eurasian Green Woodpecker","A024",7
+"Certhia brachydactyla","Short-toed Treecreeper","A024",7
+"Jynx torquilla","Eurasian Wryneck","A024",7
+"Certhia familiaris","Eurasian Treecreeper","A024",7
+"Phylloscopus trochilus","Willow Warbler","A024",7
+"Turdus viscivorus","Mistle Thrush","A024",7
+"Milvus migrans","Black Kite","A024",7
+"Columba livia","Rock Pigeon","A024",7
+"Anthus pratensis","Meadow Pipit","A024",7
+"Apus apus","Common Swift","A024",7
+"Anas platyrhynchos","Mallard","A024",7
+"Coccothraustes coccothraustes","Hawfinch","A024",7
+"Periparus ater","Coal Tit","A024",7
+"Hirundo rustica","Barn Swallow","A024",7
+"Larus fuscus","Lesser Black-backed Gull","A024",7
+"Larus michahellis","Yellow-legged Gull","A024",7
+"Turdus pilaris","Fieldfare","A024",7
+"Bubulcus ibis","Cattle Egret","A024",7
+"Mareca strepera","Gadwall","A024",7
+"Pyrrhula pyrrhula","Eurasian Bullfinch","A024",7
+"Pica pica","Eurasian Magpie","A024",7
+"Muscicapa striata","Spotted Flycatcher","A024",7
+"Locustella luscinioides","Savi's Warbler","A024",7
+"Falco tinnunculus","Eurasian Kestrel","A024",7
+"Locustella naevia","Common Grasshopper-Warbler","A024",7
+"Regulus ignicapilla","Common Firecrest","A024",7
+"Emberiza citrinella","Yellowhammer","A024",7
+"Chloris chloris","European Greenfinch","A024",7
+"Dendrocopos major","Great Spotted Woodpecker","A024",7
+"Columba oenas","Stock Dove","A024",7
+"Tringa ochropus","Green Sandpiper","A024",7
+"Emberiza calandra","Corn Bunting","A024",7
+"Erithacus rubecula","European Robin","A024",7
+"Phasianus colchicus","Ring-necked Pheasant","A024",7
+"Fulica atra","Eurasian Coot","A024",7
+"Corvus corone","Carrion Crow","A024",7
+"Mareca penelope","Eurasian Wigeon","A024",7
+"Gallinula chloropus","Eurasian Moorhen","A024",7
+"Numenius arquata","Eurasian Curlew","A024",7
+"Lullula arborea","Wood Lark","A024",7
+"Phoenicurus phoenicurus","Common Redstart","A024",7
+"Corvus monedula","Eurasian Jackdaw","A024",7
+"Alcedo atthis","Common Kingfisher","A024",7
+"Regulus regulus","Goldcrest","A024",7
+"Spinus spinus","Eurasian Siskin","A024",7
+"Tringa totanus","Common Redshank","A024",7
+"Saxicola rubicola","European Stonechat","A024",7
+"Anas crecca","Green-winged Teal","A024",7
+"Linaria cannabina","Eurasian Linnet","A024",7
+"Phoenicurus ochruros","Black Redstart","A024",7
+"Chroicocephalus ridibundus","Black-headed Gull","A024",7
+"Haematopus ostralegus","Eurasian Oystercatcher","A024",7
+"Phalacrocorax carbo","Great Cormorant","A024",7
+"Vanellus vanellus","Northern Lapwing","A024",7
+"Lanius collurio","Red-backed Shrike","A024",7
+"Charadrius dubius","Little Ringed Plover","A024",7
+"Luscinia svecica","Bluethroat","A024",7
+"Ciconia ciconia","White Stork","A024",7
+"Phylloscopus sibilatrix","Wood Warbler","A024",7
+"Corvus frugilegus","Rook","A024",7
+"Sitta europaea","Eurasian Nuthatch","A024",7
+"Tringa nebularia","Common Greenshank","A024",7
+"Poecile palustris","Marsh Tit","A024",7
+"Cettia cetti","Cetti's Warbler","A024",7
+"Dryocopus martius","Black Woodpecker","A024",7
+"Dendrocoptes medius","Middle Spotted Woodpecker","A024",7
+"Alopochen aegyptiaca","Egyptian Goose","A024",7
+"Corvus corax","Common Raven","A024",7
+"Ardea cinerea","Gray Heron","A024",7
+"Egretta garzetta","Little Egret","A024",7
+"Garrulus glandarius","Eurasian Jay","A024",7
+"Anser anser","Graylag Goose","A024",7
+"Fringilla coelebs","Common Chaffinch","A024",7
+"Acrocephalus schoenobaenus","Sedge Warbler","A024",7
+"Actitis hypoleucos","Common Sandpiper","A024",7
+"Gallinago gallinago","Common Snipe","A024",7
+"Accipiter nisus","Eurasian Sparrowhawk","A024",7
+"Circus aeruginosus","Eurasian Marsh-Harrier","A024",7
+"Tringa glareola","Wood Sandpiper","A024",7
+"Cygnus olor","Mute Swan","A024",7
+"Accipiter gentilis","Northern Goshawk","A024",7
+"Delichon urbicum","Common House-Martin","A024",7
+"Oenanthe oenanthe","Northern Wheatear","A024",7
+"Grus grus","Common Crane","A024",7
+"Certhia brachydactyla","Short-toed Treecreeper","A030",8
+"Cyanistes caeruleus","Eurasian Blue Tit","A030",8
+"Sylvia atricapilla","Eurasian Blackcap","A030",8
+"Phylloscopus collybita","Common Chiffchaff","A030",8
+"Turdus merula","Eurasian Blackbird","A030",8
+"Picus viridis","Eurasian Green Woodpecker","A030",8
+"Chroicocephalus ridibundus","Black-headed Gull","A030",8
+"Phasianus colchicus","Ring-necked Pheasant","A030",8
+"Columba palumbus","Common Wood-Pigeon","A030",8
+"Parus major","Great Tit","A030",8
+"Coccothraustes coccothraustes","Hawfinch","A030",8
+"Sylvia borin","Garden Warbler","A030",8
+"Curruca communis","Greater Whitethroat","A030",8
+"Motacilla cinerea","Gray Wagtail","A030",8
+"Motacilla alba","White Wagtail","A030",8
+"Fringilla coelebs","Common Chaffinch","A030",8
+"Oriolus oriolus","Eurasian Golden Oriole","A030",8
+"Regulus ignicapilla","Common Firecrest","A030",8
+"Troglodytes troglodytes","Eurasian Wren","A030",8
+"Anas crecca","Green-winged Teal","A030",8
+"Carduelis carduelis","European Goldfinch","A030",8
+"Anser anser","Graylag Goose","A030",8
+"Corvus corone","Carrion Crow","A030",8
+"Branta canadensis","Canada Goose","A030",8
+"Anas platyrhynchos","Mallard","A030",8
+"Buteo buteo","Common Buzzard","A030",8
+"Turdus philomelos","Song Thrush","A030",8
+"Actitis hypoleucos","Common Sandpiper","A030",8
+"Grus grus","Common Crane","A030",8
+"Luscinia megarhynchos","Common Nightingale","A030",8
+"Streptopelia decaocto","Eurasian Collared-Dove","A030",8
+"Turdus viscivorus","Mistle Thrush","A030",8
+"Cuculus canorus","Common Cuckoo","A030",8
+"Bucephala clangula","Common Goldeneye","A030",8
+"Gallinula chloropus","Eurasian Moorhen","A030",8
+"Falco tinnunculus","Eurasian Kestrel","A030",8
+"Corvus cornix","Hooded Crow","A030",8
+"Sitta europaea","Eurasian Nuthatch","A030",8
+"Anthus trivialis","Tree Pipit","A030",8
+"Aegithalos caudatus","Long-tailed Tit","A030",8
+"Garrulus glandarius","Eurasian Jay","A030",8
+"Numenius arquata","Eurasian Curlew","A030",8
+"Rallus aquaticus","Water Rail","A030",8
+"Hirundo rustica","Barn Swallow","A030",8
+"Dendrocopos major","Great Spotted Woodpecker","A030",8
+"Tringa ochropus","Green Sandpiper","A030",8
+"Prunella modularis","Dunnock","A030",8
+"Erithacus rubecula","European Robin","A030",8
+"Chloris chloris","European Greenfinch","A030",8
+"Corvus monedula","Eurasian Jackdaw","A030",8
+"Phylloscopus collybita","Common Chiffchaff","A025",10
+"Parus major","Great Tit","A025",10
+"Streptopelia decaocto","Eurasian Collared-Dove","A025",10
+"Streptopelia turtur","European Turtle-Dove","A025",10
+"Luscinia svecica","Bluethroat","A025",10
+"Passer domesticus","House Sparrow","A025",10
+"Fulica atra","Eurasian Coot","A025",10
+"Grus grus","Common Crane","A025",10
+"Anas crecca","Green-winged Teal","A025",10
+"Turdus merula","Eurasian Blackbird","A025",10
+"Motacilla alba","White Wagtail","A025",10
+"Motacilla cinerea","Gray Wagtail","A025",10
+"Psittacula krameri","Rose-ringed Parakeet","A025",10
+"Certhia brachydactyla","Short-toed Treecreeper","A025",10
+"Carduelis carduelis","European Goldfinch","A025",10
+"Columba livia","Rock Pigeon","A025",10
+"Erithacus rubecula","European Robin","A025",10
+"Spinus spinus","Eurasian Siskin","A025",10
+"Sylvia atricapilla","Eurasian Blackcap","A025",10
+"Lullula arborea","Wood Lark","A025",10
+"Prunella modularis","Dunnock","A025",10
+"Turdus viscivorus","Mistle Thrush","A025",10
+"Sturnus vulgaris","European Starling","A025",10
+"Emberiza schoeniclus","Reed Bunting","A025",10
+"Cyanistes caeruleus","Eurasian Blue Tit","A025",10
+"Curruca communis","Greater Whitethroat","A025",10
+"Saxicola rubicola","European Stonechat","A025",10
+"Larus michahellis","Yellow-legged Gull","A025",10
+"Larus argentatus","Herring Gull","A025",10
+"Phasianus colchicus","Ring-necked Pheasant","A025",10
+"Curruca curruca","Lesser Whitethroat","A025",10
+"Emberiza citrinella","Yellowhammer","A025",10
+"Tringa totanus","Common Redshank","A025",10
+"Phoenicurus phoenicurus","Common Redstart","A025",10
+"Fringilla coelebs","Common Chaffinch","A025",10
+"Tringa ochropus","Green Sandpiper","A025",10
+"Buteo buteo","Common Buzzard","A025",10
+"Chroicocephalus ridibundus","Black-headed Gull","A025",10
+"Linaria cannabina","Eurasian Linnet","A025",10
+"Anas platyrhynchos","Mallard","A025",10
+"Rallus aquaticus","Water Rail","A025",10
+"Larus fuscus","Lesser Black-backed Gull","A025",10
+"Cuculus canorus","Common Cuckoo","A025",10
+"Locustella naevia","Common Grasshopper-Warbler","A025",10
+"Haematopus ostralegus","Eurasian Oystercatcher","A025",10
+"Corvus corone","Carrion Crow","A025",10
+"Corvus frugilegus","Rook","A025",10
+"Jynx torquilla","Eurasian Wryneck","A025",10
+"Picus viridis","Eurasian Green Woodpecker","A025",10
+"Mareca penelope","Eurasian Wigeon","A025",10
+"Dendrocopos major","Great Spotted Woodpecker","A025",10
+"Dendrocoptes medius","Middle Spotted Woodpecker","A025",10
+"Turdus philomelos","Song Thrush","A025",10
+"Chloris chloris","European Greenfinch","A025",10
+"Tringa nebularia","Common Greenshank","A025",10
+"Pyrrhula pyrrhula","Eurasian Bullfinch","A025",10
+"Vanellus vanellus","Northern Lapwing","A025",10
+"Branta canadensis","Canada Goose","A025",10
+"Gallinula chloropus","Eurasian Moorhen","A025",10
+"Numenius phaeopus","Whimbrel","A025",10
+"Columba palumbus","Common Wood-Pigeon","A025",10
+"Acrocephalus scirpaceus","Eurasian Reed Warbler","A025",10
+"Anthus trivialis","Tree Pipit","A025",10
+"Corvus monedula","Eurasian Jackdaw","A025",10
+"Pica pica","Eurasian Magpie","A025",10
+"Alopochen aegyptiaca","Egyptian Goose","A025",10
+"Alauda arvensis","Eurasian Skylark","A025",10
+"Bubulcus ibis","Cattle Egret","A025",10
+"Anser anser","Graylag Goose","A025",10
+"Anthus pratensis","Meadow Pipit","A025",10
+"Delichon urbicum","Common House-Martin","A025",10
+"Hippolais polyglotta","Melodious Warbler","A025",10
+"Acrocephalus palustris","Marsh Warbler","A025",10
+"Charadrius dubius","Little Ringed Plover","A025",10
+"Phylloscopus trochilus","Willow Warbler","A025",10
+"Hirundo rustica","Barn Swallow","A025",10
+"Coccothraustes coccothraustes","Hawfinch","A025",10
+"Oenanthe oenanthe","Northern Wheatear","A025",10
+"Numenius arquata","Eurasian Curlew","A025",10
+"Charadrius hiaticula","Common Ringed Plover","A025",10
+"Himantopus himantopus","Black-winged Stilt","A025",10
+"Calidris alpina","Dunlin","A025",10
+"Gallinago gallinago","Common Snipe","A025",10
+"Phoenicurus ochruros","Black Redstart","A025",10
+"Thalasseus sandvicensis","Sandwich Tern","A025",10
+"Actitis hypoleucos","Common Sandpiper","A025",10
+"Tachybaptus ruficollis","Little Grebe","A025",10
+"Recurvirostra avosetta","Pied Avocet","A025",10
+"Tadorna tadorna","Common Shelduck","A025",10
+"Riparia riparia","Bank Swallow","A025",10
+"Corvus corax","Common Raven","A025",10
+"Tringa glareola","Wood Sandpiper","A025",10
+"Ardea cinerea","Gray Heron","A025",10
+"Regulus regulus","Goldcrest","A025",10
+"Sitta europaea","Eurasian Nuthatch","A025",10
+"Milvus milvus","Red Kite","A025",10
+"Columba oenas","Stock Dove","A025",10
+"Aegithalos caudatus","Long-tailed Tit","A025",10
+"Regulus ignicapilla","Common Firecrest","A025",10
+"Serinus serinus","European Serin","A025",10
+"Oriolus oriolus","Eurasian Golden Oriole","A025",10
+"Locustella luscinioides","Savi's Warbler","A025",10
+"Acrocephalus arundinaceus","Great Reed Warbler","A025",10
+"Falco tinnunculus","Eurasian Kestrel","A025",10
+"Sylvia borin","Garden Warbler","A025",10
+"Chlidonias niger","Black Tern","A025",10
+"Circus aeruginosus","Eurasian Marsh-Harrier","A025",10
+"Luscinia megarhynchos","Common Nightingale","A025",10
+"Motacilla flava","Western Yellow Wagtail","A025",10
+"Periparus ater","Coal Tit","A025",10
+"Turdus pilaris","Fieldfare","A025",10
+"Lophophanes cristatus","Crested Tit","A025",10
+"Sterna hirundo","Common Tern","A025",10
+"Phalacrocorax carbo","Great Cormorant","A025",10
+"Ciconia ciconia","White Stork","A025",10
+"Apus apus","Common Swift","A025",10
+"Parus major","Great Tit","xa23",11
+"Hirundo rustica","Barn Swallow","xa23",11
+"Hippolais polyglotta","Melodious Warbler","xa23",11
+"Falco tinnunculus","Eurasian Kestrel","xa23",11
+"Turdus merula","Eurasian Blackbird","xa23",11
+"Prunella modularis","Dunnock","xa23",11
+"Troglodytes troglodytes","Eurasian Wren","xa23",11
+"Motacilla flava","Western Yellow Wagtail","xa23",11
+"Mergus merganser","Common Merganser","xa23",11
+"Curruca communis","Greater Whitethroat","xa23",11
+"Sylvia atricapilla","Eurasian Blackcap","xa23",11
+"Oriolus oriolus","Eurasian Golden Oriole","xa23",11
+"Lullula arborea","Wood Lark","xa23",11
+"Regulus regulus","Goldcrest","xa23",11
+"Certhia brachydactyla","Short-toed Treecreeper","xa23",11
+"Locustella naevia","Common Grasshopper-Warbler","xa23",11
+"Serinus serinus","European Serin","xa23",11
+"Grus grus","Common Crane","xa23",11
+"Emberiza citrinella","Yellowhammer","xa23",11
+"Gallinula chloropus","Eurasian Moorhen","xa23",11
+"Charadrius dubius","Little Ringed Plover","xa23",11
+"Carduelis carduelis","European Goldfinch","xa23",11
+"Lophophanes cristatus","Crested Tit","xa23",11
+"Streptopelia decaocto","Eurasian Collared-Dove","xa23",11
+"Columba palumbus","Common Wood-Pigeon","xa23",11
+"Charadrius hiaticula","Common Ringed Plover","xa23",11
+"Cyanistes caeruleus","Eurasian Blue Tit","xa23",11
+"Pyrrhula pyrrhula","Eurasian Bullfinch","xa23",11
+"Phylloscopus collybita","Common Chiffchaff","xa23",11
+"Chloris chloris","European Greenfinch","xa23",11
+"Regulus ignicapilla","Common Firecrest","xa23",11
+"Motacilla cinerea","Gray Wagtail","xa23",11
+"Anthus trivialis","Tree Pipit","xa23",11
+"Tringa totanus","Common Redshank","xa23",11
+"Emberiza schoeniclus","Reed Bunting","xa23",11
+"Haematopus ostralegus","Eurasian Oystercatcher","xa23",11
+"Erithacus rubecula","European Robin","xa23",11
+"Corvus monedula","Eurasian Jackdaw","xa23",11
+"Lanius collurio","Red-backed Shrike","xa23",11
+"Streptopelia turtur","European Turtle-Dove","xa23",11
+"Psittacula krameri","Rose-ringed Parakeet","xa23",11
+"Sylvia borin","Garden Warbler","xa23",11
+"Tringa glareola","Wood Sandpiper","xa23",11
+"Larus michahellis","Yellow-legged Gull","xa23",11
+"Larus fuscus","Lesser Black-backed Gull","xa23",11
+"Locustella luscinioides","Savi's Warbler","xa23",11
+"Actitis hypoleucos","Common Sandpiper","xa23",11
+"Tringa ochropus","Green Sandpiper","xa23",11
+"Numenius phaeopus","Whimbrel","xa23",11
+"Saxicola rubicola","European Stonechat","xa23",11
+"Numenius arquata","Eurasian Curlew","xa23",11
+"Buteo buteo","Common Buzzard","xa23",11
+"Alauda arvensis","Eurasian Skylark","xa23",11
+"Picus viridis","Eurasian Green Woodpecker","xa23",11
+"Motacilla alba","White Wagtail","xa23",11
+"Acrocephalus arundinaceus","Great Reed Warbler","xa23",11
+"Dendrocopos major","Great Spotted Woodpecker","xa23",11
+"Corvus corone","Carrion Crow","xa23",11
+"Turdus philomelos","Song Thrush","xa23",11
+"Rallus aquaticus","Water Rail","xa23",11
+"Milvus milvus","Red Kite","xa23",11
+"Turdus pilaris","Fieldfare","xa23",11
+"Fulica atra","Eurasian Coot","xa23",11
+"Tachybaptus ruficollis","Little Grebe","xa23",11
+"Corvus frugilegus","Rook","xa23",11
+"Coccothraustes coccothraustes","Hawfinch","xa23",11
+"Mareca penelope","Eurasian Wigeon","xa23",11
+"Anas platyrhynchos","Mallard","xa23",11
+"Dendrocoptes medius","Middle Spotted Woodpecker","xa23",11
+"Jynx torquilla","Eurasian Wryneck","xa23",11
+"Certhia familiaris","Eurasian Treecreeper","xa23",11
+"Phoenicurus phoenicurus","Common Redstart","xa23",11
+"Passer domesticus","House Sparrow","xa23",11
+"Garrulus glandarius","Eurasian Jay","xa23",11
+"Ardea cinerea","Gray Heron","xa23",11
+"Spinus spinus","Eurasian Siskin","xa23",11
+"Pica pica","Eurasian Magpie","xa23",11
+"Apus apus","Common Swift","xa23",11
+"Muscicapa striata","Spotted Flycatcher","xa23",11
+"Aegithalos caudatus","Long-tailed Tit","xa23",11
+"Phoenicurus ochruros","Black Redstart","xa23",11
+"Linaria cannabina","Eurasian Linnet","xa23",11
+"Saxicola rubetra","Whinchat","xa23",11
+"Columba oenas","Stock Dove","xa23",11
+"Delichon urbicum","Common House-Martin","xa23",11
+"Vanellus vanellus","Northern Lapwing","xa23",11
+"Passer montanus","Eurasian Tree Sparrow","xa23",11
+"Alcedo atthis","Common Kingfisher","xa23",11
+"Tringa nebularia","Common Greenshank","xa23",11
+"Anas crecca","Green-winged Teal","xa23",11
+"Poecile palustris","Marsh Tit","xa23",11
+"Calidris alpina","Dunlin","xa23",11
+"Mareca strepera","Gadwall","xa23",11
+"Thalasseus sandvicensis","Sandwich Tern","xa23",11
+"Turdus viscivorus","Mistle Thrush","xa23",11
+"Limosa limosa","Black-tailed Godwit","xa23",11
+"Luscinia svecica","Bluethroat","xa23",11
+"Curruca curruca","Lesser Whitethroat","xa23",11
+"Fringilla coelebs","Common Chaffinch","xa23",11
+"Oenanthe oenanthe","Northern Wheatear","xa23",11
+"Emberiza calandra","Corn Bunting","xa23",11
+"Sitta europaea","Eurasian Nuthatch","xa23",11
+"Sterna hirundo","Common Tern","xa23",11
+"Alopochen aegyptiaca","Egyptian Goose","xa23",11
+"Falco subbuteo","Eurasian Hobby","xa23",11
+"Periparus ater","Coal Tit","xa23",11
+"Dryocopus martius","Black Woodpecker","xa23",11
+"Phalacrocorax carbo","Great Cormorant","xa23",11
+"Chroicocephalus ridibundus","Black-headed Gull","xa23",11
+"Luscinia megarhynchos","Common Nightingale","xa23",11
+"Anthus pratensis","Meadow Pipit","xa23",11
+"Corvus corax","Common Raven","xa23",11
+"Accipiter gentilis","Northern Goshawk","xa23",11
+"Anser anser","Graylag Goose","xa23",11
+"Acrocephalus schoenobaenus","Sedge Warbler","xa23",11
+"Cettia cetti","Cetti's Warbler","xa23",11
+"Chlidonias niger","Black Tern","xa23",11
+"Egretta garzetta","Little Egret","xa23",11
+"Milvus migrans","Black Kite","xa23",11
+"Cuculus canorus","Common Cuckoo","xa23",11
+"Acrocephalus scirpaceus","Eurasian Reed Warbler","xa23",11
+"Acrocephalus palustris","Marsh Warbler","xa23",11
+"Phasianus colchicus","Ring-necked Pheasant","xa23",11
+"Phylloscopus trochilus","Willow Warbler","xa23",11
