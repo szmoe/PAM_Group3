@@ -1,143 +1,143 @@
-Scientific.name,Common.name,Audio_IDs,Site_IDs
-Turdus merula,Eurasian Blackbird,A027 A024 A030 A025 xa23,6 7 8 10 11
-Sturnus vulgaris,European Starling,A027 A024 A025,6 7 10
-Parus major,Great Tit,A027 A024 A030 A025 xa23,6 7 8 10 11
-Phalacrocorax carbo,Great Cormorant,A027 A024 A025 xa23,6 7 10 11
-Emberiza citrinella,Yellowhammer,A027 A024 A025 xa23,6 7 10 11
-Milvus milvus,Red Kite,A027 A024 A025 xa23,6 7 10 11
-Curruca communis,Greater Whitethroat,A027 A024 A030 A025 xa23,6 7 8 10 11
-Jynx torquilla,Eurasian Wryneck,A027 A024 A025 xa23,6 7 10 11
-Sylvia borin,Garden Warbler,A027 A024 A030 A025 xa23,6 7 8 10 11
-Lanius collurio,Red-backed Shrike,A027 A024 xa23,6 7 11
-Sylvia atricapilla,Eurasian Blackcap,A027 A024 A030 A025 xa23,6 7 8 10 11
-Hippolais polyglotta,Melodious Warbler,A027 A024 A025 xa23,6 7 10 11
-Phoenicurus ochruros,Black Redstart,A027 A024 A025 xa23,6 7 10 11
-Motacilla cinerea,Gray Wagtail,A027 A024 A030 A025 xa23,6 7 8 10 11
-Cyanistes caeruleus,Eurasian Blue Tit,A027 A024 A030 A025 xa23,6 7 8 10 11
-Picus viridis,Eurasian Green Woodpecker,A027 A024 A030 A025 xa23,6 7 8 10 11
-Buteo buteo,Common Buzzard,A027 A024 A030 A025 xa23,6 7 8 10 11
-Circus aeruginosus,Eurasian Marsh-Harrier,A027 A024 A025,6 7 10
-Lullula arborea,Wood Lark,A027 A024 A025 xa23,6 7 10 11
-Gallinula chloropus,Eurasian Moorhen,A027 A024 A030 A025 xa23,6 7 8 10 11
-Chlidonias niger,Black Tern,A027 A025 xa23,6 10 11
-Charadrius hiaticula,Common Ringed Plover,A027 A024 A025 xa23,6 7 10 11
-Phylloscopus trochilus,Willow Warbler,A027 A024 A025 xa23,6 7 10 11
-Corvus corone,Carrion Crow,A027 A024 A030 A025 xa23,6 7 8 10 11
-Turdus viscivorus,Mistle Thrush,A027 A024 A030 A025 xa23,6 7 8 10 11
-Dendrocopos major,Great Spotted Woodpecker,A027 A024 A030 A025 xa23,6 7 8 10 11
-Oriolus oriolus,Eurasian Golden Oriole,A027 A024 A030 A025 xa23,6 7 8 10 11
-Numenius arquata,Eurasian Curlew,A027 A024 A030 A025 xa23,6 7 8 10 11
-Phylloscopus collybita,Common Chiffchaff,A027 A024 A030 A025 xa23,6 7 8 10 11
-Phoenicurus phoenicurus,Common Redstart,A027 A024 A025 xa23,6 7 10 11
-Motacilla alba,White Wagtail,A027 A024 A030 A025 xa23,6 7 8 10 11
-Carduelis carduelis,European Goldfinch,A027 A024 A030 A025 xa23,6 7 8 10 11
-Certhia brachydactyla,Short-toed Treecreeper,A027 A024 A030 A025 xa23,6 7 8 10 11
-Anas platyrhynchos,Mallard,A027 A024 A030 A025 xa23,6 7 8 10 11
-Mareca strepera,Gadwall,A027 A024 xa23,6 7 11
-Pyrrhula pyrrhula,Eurasian Bullfinch,A027 A024 A025 xa23,6 7 10 11
-Streptopelia turtur,European Turtle-Dove,A027 A024 A025 xa23,6 7 10 11
-Turdus pilaris,Fieldfare,A027 A024 A025 xa23,6 7 10 11
-Tringa ochropus,Green Sandpiper,A027 A024 A030 A025 xa23,6 7 8 10 11
-Charadrius dubius,Little Ringed Plover,A027 A024 A025 xa23,6 7 10 11
-Falco tinnunculus,Eurasian Kestrel,A027 A024 A030 A025 xa23,6 7 8 10 11
-Turdus philomelos,Song Thrush,A027 A024 A030 A025 xa23,6 7 8 10 11
-Branta canadensis,Canada Goose,A027 A024 A030 A025,6 7 8 10
-Emberiza calandra,Corn Bunting,A027 A024 xa23,6 7 11
-Locustella naevia,Common Grasshopper-Warbler,A027 A024 A025 xa23,6 7 10 11
-Fulica atra,Eurasian Coot,A027 A024 A025 xa23,6 7 10 11
-Erithacus rubecula,European Robin,A027 A024 A030 A025 xa23,6 7 8 10 11
-Corvus frugilegus,Rook,A027 A024 A025 xa23,6 7 10 11
-Regulus ignicapilla,Common Firecrest,A027 A024 A030 A025 xa23,6 7 8 10 11
-Aegithalos caudatus,Long-tailed Tit,A027 A024 A030 A025 xa23,6 7 8 10 11
-Curruca curruca,Lesser Whitethroat,A027 A024 A025 xa23,6 7 10 11
-Certhia familiaris,Eurasian Treecreeper,A027 A024 xa23,6 7 11
-Troglodytes troglodytes,Eurasian Wren,A027 A024 A030 xa23,6 7 8 11
-Anthus trivialis,Tree Pipit,A027 A024 A030 A025 xa23,6 7 8 10 11
-Columba palumbus,Common Wood-Pigeon,A027 A024 A030 A025 xa23,6 7 8 10 11
-Motacilla flava,Western Yellow Wagtail,A027 A024 A025 xa23,6 7 10 11
-Muscicapa striata,Spotted Flycatcher,A027 A024 xa23,6 7 11
-Ardea cinerea,Gray Heron,A027 A024 A025 xa23,6 7 10 11
-Columba oenas,Stock Dove,A027 A024 A025 xa23,6 7 10 11
-Prunella modularis,Dunnock,A027 A024 A030 A025 xa23,6 7 8 10 11
-Pica pica,Eurasian Magpie,A027 A024 A025 xa23,6 7 10 11
-Saxicola rubetra,Whinchat,A027 xa23,6 11
-Chloris chloris,European Greenfinch,A027 A024 A030 A025 xa23,6 7 8 10 11
-Anthus pratensis,Meadow Pipit,A027 A024 A025 xa23,6 7 10 11
-Dendrocoptes medius,Middle Spotted Woodpecker,A027 A024 A025 xa23,6 7 10 11
-Sitta europaea,Eurasian Nuthatch,A027 A024 A030 A025 xa23,6 7 8 10 11
-Regulus regulus,Goldcrest,A027 A024 A025 xa23,6 7 10 11
-Saxicola rubicola,European Stonechat,A027 A024 A025 xa23,6 7 10 11
-Emberiza schoeniclus,Reed Bunting,A027 A024 A025 xa23,6 7 10 11
-Poecile palustris,Marsh Tit,A027 A024 xa23,6 7 11
-Luscinia megarhynchos,Common Nightingale,A027 A024 A030 A025 xa23,6 7 8 10 11
-Acrocephalus palustris,Marsh Warbler,A027 A024 A025 xa23,6 7 10 11
-Periparus ater,Coal Tit,A027 A024 A025 xa23,6 7 10 11
-Streptopelia decaocto,Eurasian Collared-Dove,A027 A024 A030 A025 xa23,6 7 8 10 11
-Fringilla coelebs,Common Chaffinch,A027 A024 A030 A025 xa23,6 7 8 10 11
-Rallus aquaticus,Water Rail,A027 A024 A030 A025 xa23,6 7 8 10 11
-Hirundo rustica,Barn Swallow,A027 A024 A030 A025 xa23,6 7 8 10 11
-Alauda arvensis,Eurasian Skylark,A027 A025 xa23,6 10 11
-Lophophanes cristatus,Crested Tit,A027 A025 xa23,6 10 11
-Tringa totanus,Common Redshank,A027 A024 A025 xa23,6 7 10 11
-Tringa nebularia,Common Greenshank,A027 A024 A025 xa23,6 7 10 11
-Cygnus olor,Mute Swan,A027 A024,6 7
-Linaria cannabina,Eurasian Linnet,A027 A024 A025 xa23,6 7 10 11
-Cettia cetti,Cetti's Warbler,A027 A024 xa23,6 7 11
-Ciconia ciconia,White Stork,A027 A024 A025,6 7 10
-Grus grus,Common Crane,A027 A024 A030 A025 xa23,6 7 8 10 11
-Anas crecca,Green-winged Teal,A027 A024 A030 A025 xa23,6 7 8 10 11
-Recurvirostra avosetta,Pied Avocet,A027 A025,6 10
-Cuculus canorus,Common Cuckoo,A027 A024 A030 A025 xa23,6 7 8 10 11
-Dryocopus martius,Black Woodpecker,A027 A024 xa23,6 7 11
-Spinus spinus,Eurasian Siskin,A027 A024 A025 xa23,6 7 10 11
-Serinus serinus,European Serin,A027 A024 A025 xa23,6 7 10 11
-Coccothraustes coccothraustes,Hawfinch,A027 A024 A030 A025 xa23,6 7 8 10 11
-Anser anser,Graylag Goose,A027 A024 A030 A025 xa23,6 7 8 10 11
-Garrulus glandarius,Eurasian Jay,A027 A024 A030 xa23,6 7 8 11
-Alopochen aegyptiaca,Egyptian Goose,A027 A024 A025 xa23,6 7 10 11
-Ardea alba,Great Egret,A027,6
-Acrocephalus scirpaceus,Eurasian Reed Warbler,A027 A024 A025 xa23,6 7 10 11
-Luscinia svecica,Bluethroat,A027 A024 A025 xa23,6 7 10 11
-Acrocephalus schoenobaenus,Sedge Warbler,A027 A024 xa23,6 7 11
-Columba livia,Rock Pigeon,A027 A024 A025,6 7 10
-Actitis hypoleucos,Common Sandpiper,A027 A024 A030 A025 xa23,6 7 8 10 11
-Larus argentatus,Herring Gull,A027 A024 A025,6 7 10
-Phylloscopus sibilatrix,Wood Warbler,A027 A024,6 7
-Corvus monedula,Eurasian Jackdaw,A027 A024 A030 A025 xa23,6 7 8 10 11
-Bubulcus ibis,Cattle Egret,A027 A024 A025,6 7 10
-Phasianus colchicus,Ring-necked Pheasant,A027 A024 A030 A025 xa23,6 7 8 10 11
-Oenanthe oenanthe,Northern Wheatear,A027 A024 A025 xa23,6 7 10 11
-Egretta garzetta,Little Egret,A027 A024 xa23,6 7 11
-Apus apus,Common Swift,A027 A024 A025 xa23,6 7 10 11
-Psittacula krameri,Rose-ringed Parakeet,A027 A024 A025 xa23,6 7 10 11
-Mareca penelope,Eurasian Wigeon,A027 A024 A025 xa23,6 7 10 11
-Acrocephalus arundinaceus,Great Reed Warbler,A024 A025 xa23,7 10 11
-Milvus migrans,Black Kite,A024 xa23,7 11
-Larus fuscus,Lesser Black-backed Gull,A024 A025 xa23,7 10 11
-Larus michahellis,Yellow-legged Gull,A024 A025 xa23,7 10 11
-Locustella luscinioides,Savi's Warbler,A024 A025 xa23,7 10 11
-Alcedo atthis,Common Kingfisher,A024 xa23,7 11
-Chroicocephalus ridibundus,Black-headed Gull,A024 A030 A025 xa23,7 8 10 11
-Haematopus ostralegus,Eurasian Oystercatcher,A024 A025 xa23,7 10 11
-Vanellus vanellus,Northern Lapwing,A024 A025 xa23,7 10 11
-Corvus corax,Common Raven,A024 A025 xa23,7 10 11
-Gallinago gallinago,Common Snipe,A024 A025,7 10
-Accipiter nisus,Eurasian Sparrowhawk,A024,7
-Tringa glareola,Wood Sandpiper,A024 A025 xa23,7 10 11
-Accipiter gentilis,Northern Goshawk,A024 xa23,7 11
-Delichon urbicum,Common House-Martin,A024 A025 xa23,7 10 11
-Bucephala clangula,Common Goldeneye,A030,8
-Corvus cornix,Hooded Crow,A030,8
-Passer domesticus,House Sparrow,A025 xa23,10 11
-Numenius phaeopus,Whimbrel,A025 xa23,10 11
-Himantopus himantopus,Black-winged Stilt,A025,10
-Calidris alpina,Dunlin,A025 xa23,10 11
-Thalasseus sandvicensis,Sandwich Tern,A025 xa23,10 11
-Tachybaptus ruficollis,Little Grebe,A025 xa23,10 11
-Tadorna tadorna,Common Shelduck,A025,10
-Riparia riparia,Bank Swallow,A025,10
-Sterna hirundo,Common Tern,A025 xa23,10 11
-Mergus merganser,Common Merganser,xa23,11
-Passer montanus,Eurasian Tree Sparrow,xa23,11
-Limosa limosa,Black-tailed Godwit,xa23,11
-Falco subbuteo,Eurasian Hobby,xa23,11
+Scientific.name,Common.name,Confidence,Audio_IDs,Site_IDs
+Turdus merula,Eurasian Blackbird,"0.48,   0.14,   0.78,   0.15,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Sturnus vulgaris,European Starling,"0.13,   0.4,   0.12","A027,   A024,   A025","6,   7,   10"
+Parus major,Great Tit,"0.27,   0.11,   0.56,   0.58,   0.38","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Phalacrocorax carbo,Great Cormorant,"0.3,   0.37,   0.1,   0.21","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Emberiza citrinella,Yellowhammer,"0.11,   0.18,   0.11,   0.13","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Milvus milvus,Red Kite,"0.12,   0.18,   0.13,   0.14","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Curruca communis,Greater Whitethroat,"0.12,   0.18,   0.55,   0.25,   0.31","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Jynx torquilla,Eurasian Wryneck,"0.14,   0.11,   0.1,   0.1","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Sylvia borin,Garden Warbler,"0.11,   0.11,   0.65,   0.13,   0.17","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Lanius collurio,Red-backed Shrike,"0.11,   0.21,   0.12","A027,   A024,   xa23","6,   7,   11"
+Sylvia atricapilla,Eurasian Blackcap,"0.16,   0.15,   0.68,   0.15,   0.16","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Hippolais polyglotta,Melodious Warbler,"0.52,   0.19,   0.15,   0.25","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Phoenicurus ochruros,Black Redstart,"0.23,   0.13,   0.14,   0.1","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Motacilla cinerea,Gray Wagtail,"0.12,   0.14,   0.95,   0.11,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Cyanistes caeruleus,Eurasian Blue Tit,"0.28,   0.37,   0.96,   0.19,   0.26","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Picus viridis,Eurasian Green Woodpecker,"0.28,   0.11,   0.91,   0.95,   0.63","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Buteo buteo,Common Buzzard,"0.15,   0.16,   0.53,   0.45,   0.12","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Circus aeruginosus,Eurasian Marsh-Harrier,"0.13,   0.12,   0.16","A027,   A024,   A025","6,   7,   10"
+Lullula arborea,Wood Lark,"0.15,   0.14,   0.1,   0.17","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Gallinula chloropus,Eurasian Moorhen,"0.2,   0.1,   0.9,   0.11,   0.24","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Chlidonias niger,Black Tern,"0.11,   0.11,   0.11","A027,   A025,   xa23","6,   10,   11"
+Charadrius hiaticula,Common Ringed Plover,"0.14,   0.11,   0.1,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Phylloscopus trochilus,Willow Warbler,"0.11,   0.1,   0.2,   0.13","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Corvus corone,Carrion Crow,"0.27,   0.22,   0.55,   0.27,   0.16","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Turdus viscivorus,Mistle Thrush,"0.12,   0.14,   0.55,   0.12,   0.23","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Dendrocopos major,Great Spotted Woodpecker,"0.11,   0.14,   0.75,   0.3,   0.12","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Oriolus oriolus,Eurasian Golden Oriole,"0.14,   0.1,   0.69,   0.17,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Numenius arquata,Eurasian Curlew,"0.1,   0.11,   0.83,   0.15,   0.12","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Phylloscopus collybita,Common Chiffchaff,"0.65,   0.42,   0.58,   0.1,   0.15","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Phoenicurus phoenicurus,Common Redstart,"0.1,   0.1,   0.16,   0.2","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Motacilla alba,White Wagtail,"0.11,   0.95,   0.91,   0.88,   0.13","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Carduelis carduelis,European Goldfinch,"0.12,   0.1,   0.93,   0.16,   0.7","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Certhia brachydactyla,Short-toed Treecreeper,"0.12,   0.58,   0.66,   0.11,   0.15","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Anas platyrhynchos,Mallard,"0.39,   0.17,   0.52,   0.16,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Mareca strepera,Gadwall,"0.11,   0.16,   0.16","A027,   A024,   xa23","6,   7,   11"
+Pyrrhula pyrrhula,Eurasian Bullfinch,"0.11,   0.11,   0.12,   0.19","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Streptopelia turtur,European Turtle-Dove,"0.16,   0.35,   0.16,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Turdus pilaris,Fieldfare,"0.12,   0.13,   0.13,   0.13","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Tringa ochropus,Green Sandpiper,"0.16,   0.1,   0.61,   0.28,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Charadrius dubius,Little Ringed Plover,"0.21,   0.23,   0.19,   0.22","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Falco tinnunculus,Eurasian Kestrel,"0.26,   0.11,   0.56,   0.25,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Turdus philomelos,Song Thrush,"0.19,   0.1,   0.66,   0.16,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Branta canadensis,Canada Goose,"0.11,   0.38,   0.58,   0.16","A027,   A024,   A030,   A025","6,   7,   8,   10"
+Emberiza calandra,Corn Bunting,"0.19,   0.12,   0.1","A027,   A024,   xa23","6,   7,   11"
+Locustella naevia,Common Grasshopper-Warbler,"0.19,   0.29,   0.11,   0.13","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Fulica atra,Eurasian Coot,"0.1,   0.13,   0.19,   0.14","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Erithacus rubecula,European Robin,"0.18,   0.12,   0.62,   0.13,   0.13","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Corvus frugilegus,Rook,"0.49,   0.11,   0.42,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Regulus ignicapilla,Common Firecrest,"0.16,   0.25,   0.96,   0.18,   0.12","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Aegithalos caudatus,Long-tailed Tit,"0.44,   0.4,   0.55,   0.13,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Curruca curruca,Lesser Whitethroat,"0.11,   0.14,   0.11,   0.18","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Certhia familiaris,Eurasian Treecreeper,"0.38,   0.11,   0.15","A027,   A024,   xa23","6,   7,   11"
+Troglodytes troglodytes,Eurasian Wren,"0.72,   0.16,   0.58,   0.22","A027,   A024,   A030,   xa23","6,   7,   8,   11"
+Anthus trivialis,Tree Pipit,"0.11,   0.11,   0.54,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Columba palumbus,Common Wood-Pigeon,"0.13,   0.12,   0.55,   0.1,   0.76","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Motacilla flava,Western Yellow Wagtail,"0.12,   0.1,   0.15,   0.15","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Muscicapa striata,Spotted Flycatcher,"0.11,   0.31,   0.1","A027,   A024,   xa23","6,   7,   11"
+Ardea cinerea,Gray Heron,"0.26,   0.13,   0.66,   0.52","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Columba oenas,Stock Dove,"0.11,   0.13,   0.27,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Prunella modularis,Dunnock,"0.1,   0.35,   0.77,   0.1,   0.16","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Pica pica,Eurasian Magpie,"0.13,   0.12,   0.43,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Saxicola rubetra,Whinchat,"0.21,   0.14","A027,   xa23","6,   11"
+Chloris chloris,European Greenfinch,"0.21,   0.13,   0.83,   0.26,   0.39","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Anthus pratensis,Meadow Pipit,"0.23,   0.12,   0.13,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Dendrocoptes medius,Middle Spotted Woodpecker,"0.2,   0.12,   0.15,   0.1","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Sitta europaea,Eurasian Nuthatch,"0.12,   0.12,   0.59,   0.15,   0.14","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Regulus regulus,Goldcrest,"0.15,   0.14,   0.16,   0.17","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Saxicola rubicola,European Stonechat,"0.14,   0.11,   0.11,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Emberiza schoeniclus,Reed Bunting,"0.12,   0.17,   0.16,   0.14","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Poecile palustris,Marsh Tit,"0.13,   0.14,   0.14","A027,   A024,   xa23","6,   7,   11"
+Luscinia megarhynchos,Common Nightingale,"0.15,   0.19,   0.8,   0.22,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Acrocephalus palustris,Marsh Warbler,"0.11,   0.15,   0.12,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Periparus ater,Coal Tit,"0.16,   0.16,   0.15,   0.3","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Streptopelia decaocto,Eurasian Collared-Dove,"0.24,   0.13,   0.5,   0.23,   0.15","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Fringilla coelebs,Common Chaffinch,"0.14,   0.41,   0.74,   0.11,   0.15","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Rallus aquaticus,Water Rail,"0.11,   0.13,   0.64,   0.14,   0.11","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Hirundo rustica,Barn Swallow,"0.11,   0.93,   0.59,   0.54,   0.16","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Alauda arvensis,Eurasian Skylark,"0.11,   0.41,   0.14","A027,   A025,   xa23","6,   10,   11"
+Lophophanes cristatus,Crested Tit,"0.11,   0.2,   0.14","A027,   A025,   xa23","6,   10,   11"
+Tringa totanus,Common Redshank,"0.11,   0.11,   0.17,   0.15","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Tringa nebularia,Common Greenshank,"0.12,   0.19,   0.24,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Cygnus olor,Mute Swan,"0.21,   0.11","A027,   A024","6,   7"
+Linaria cannabina,Eurasian Linnet,"0.71,   0.12,   0.23,   0.1","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Cettia cetti,Cetti's Warbler,"0.17,   0.12,   0.12","A027,   A024,   xa23","6,   7,   11"
+Ciconia ciconia,White Stork,"0.17,   0.35,   0.21","A027,   A024,   A025","6,   7,   10"
+Grus grus,Common Crane,"0.13,   0.16,   0.55,   0.27,   0.13","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Anas crecca,Green-winged Teal,"0.29,   0.11,   0.52,   0.12,   0.12","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Recurvirostra avosetta,Pied Avocet,"0.1,   0.14","A027,   A025","6,   10"
+Cuculus canorus,Common Cuckoo,"0.49,   0.11,   0.73,   0.15,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Dryocopus martius,Black Woodpecker,"0.11,   0.19,   0.19","A027,   A024,   xa23","6,   7,   11"
+Spinus spinus,Eurasian Siskin,"0.13,   0.12,   0.1,   0.25","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Serinus serinus,European Serin,"0.12,   0.26,   0.19,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Coccothraustes coccothraustes,Hawfinch,"0.34,   0.18,   0.98,   0.78,   0.14","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Anser anser,Graylag Goose,"0.32,   0.15,   0.68,   0.13,   0.14","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Garrulus glandarius,Eurasian Jay,"0.11,   0.15,   0.54,   0.12","A027,   A024,   A030,   xa23","6,   7,   8,   11"
+Alopochen aegyptiaca,Egyptian Goose,"0.87,   0.42,   0.92,   0.18","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Ardea alba,Great Egret,0.17,A027,6
+Acrocephalus scirpaceus,Eurasian Reed Warbler,"0.18,   0.13,   0.12,   0.27","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Luscinia svecica,Bluethroat,"0.11,   0.13,   0.13,   0.31","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Acrocephalus schoenobaenus,Sedge Warbler,"0.1,   0.17,   0.12","A027,   A024,   xa23","6,   7,   11"
+Columba livia,Rock Pigeon,"0.1,   0.12,   0.34","A027,   A024,   A025","6,   7,   10"
+Actitis hypoleucos,Common Sandpiper,"0.19,   0.15,   0.6,   0.15,   0.36","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Larus argentatus,Herring Gull,"0.14,   0.11,   0.11","A027,   A024,   A025","6,   7,   10"
+Phylloscopus sibilatrix,Wood Warbler,"0.22,   0.24","A027,   A024","6,   7"
+Corvus monedula,Eurasian Jackdaw,"0.2,   0.1,   0.84,   0.44,   0.19","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Bubulcus ibis,Cattle Egret,"0.12,   0.5,   0.49","A027,   A024,   A025","6,   7,   10"
+Phasianus colchicus,Ring-necked Pheasant,"0.3,   0.1,   0.97,   0.2,   0.1","A027,   A024,   A030,   A025,   xa23","6,   7,   8,   10,   11"
+Oenanthe oenanthe,Northern Wheatear,"0.14,   0.23,   0.17,   0.11","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Egretta garzetta,Little Egret,"0.33,   0.1,   0.13","A027,   A024,   xa23","6,   7,   11"
+Apus apus,Common Swift,"0.36,   0.11,   0.1,   0.13","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Psittacula krameri,Rose-ringed Parakeet,"0.89,   0.2,   0.19,   0.21","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Mareca penelope,Eurasian Wigeon,"0.27,   0.12,   0.18,   0.12","A027,   A024,   A025,   xa23","6,   7,   10,   11"
+Acrocephalus arundinaceus,Great Reed Warbler,"0.13,   0.12,   0.3","A024,   A025,   xa23","7,   10,   11"
+Milvus migrans,Black Kite,"0.1,   0.11","A024,   xa23","7,   11"
+Larus fuscus,Lesser Black-backed Gull,"0.23,   0.32,   0.1","A024,   A025,   xa23","7,   10,   11"
+Larus michahellis,Yellow-legged Gull,"0.21,   0.13,   0.12","A024,   A025,   xa23","7,   10,   11"
+Locustella luscinioides,Savi's Warbler,"0.12,   0.13,   0.23","A024,   A025,   xa23","7,   10,   11"
+Alcedo atthis,Common Kingfisher,"0.19,   0.18","A024,   xa23","7,   11"
+Chroicocephalus ridibundus,Black-headed Gull,"0.16,   0.52,   0.13,   0.11","A024,   A030,   A025,   xa23","7,   8,   10,   11"
+Haematopus ostralegus,Eurasian Oystercatcher,"0.15,   0.15,   0.13","A024,   A025,   xa23","7,   10,   11"
+Vanellus vanellus,Northern Lapwing,"0.1,   0.15,   0.16","A024,   A025,   xa23","7,   10,   11"
+Corvus corax,Common Raven,"0.11,   0.33,   0.34","A024,   A025,   xa23","7,   10,   11"
+Gallinago gallinago,Common Snipe,"0.81,   0.17","A024,   A025","7,   10"
+Accipiter nisus,Eurasian Sparrowhawk,0.1,A024,7
+Tringa glareola,Wood Sandpiper,"0.14,   0.29,   0.15","A024,   A025,   xa23","7,   10,   11"
+Accipiter gentilis,Northern Goshawk,"0.12,   0.26","A024,   xa23","7,   11"
+Delichon urbicum,Common House-Martin,"0.26,   0.12,   0.11","A024,   A025,   xa23","7,   10,   11"
+Bucephala clangula,Common Goldeneye,0.54,A030,8
+Corvus cornix,Hooded Crow,0.58,A030,8
+Passer domesticus,House Sparrow,"0.11,   0.12","A025,   xa23","10,   11"
+Numenius phaeopus,Whimbrel,"0.17,   0.1","A025,   xa23","10,   11"
+Himantopus himantopus,Black-winged Stilt,0.12,A025,10
+Calidris alpina,Dunlin,"0.35,   0.11","A025,   xa23","10,   11"
+Thalasseus sandvicensis,Sandwich Tern,"0.3,   0.22","A025,   xa23","10,   11"
+Tachybaptus ruficollis,Little Grebe,"0.12,   0.16","A025,   xa23","10,   11"
+Tadorna tadorna,Common Shelduck,0.13,A025,10
+Riparia riparia,Bank Swallow,0.15,A025,10
+Sterna hirundo,Common Tern,"0.12,   0.23","A025,   xa23","10,   11"
+Mergus merganser,Common Merganser,0.22,xa23,11
+Passer montanus,Eurasian Tree Sparrow,0.23,xa23,11
+Limosa limosa,Black-tailed Godwit,0.13,xa23,11
+Falco subbuteo,Eurasian Hobby,0.13,xa23,11
