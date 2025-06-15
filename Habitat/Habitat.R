@@ -4,7 +4,7 @@ library(kableExtra)
 
 Habitat <- tibble::tibble(
   Site_ID = c("6", "7", "8", "10", "11"),
-  Habitat = c("Grassland", "Near-pond", "Grassland", "Cropland", "Cropland")
+  Habitat = c("Grassland", "Cropland near pond", "Grassland", "Cropland", "Cropland")
 )
 
 
