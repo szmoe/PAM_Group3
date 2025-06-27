@@ -1,0 +1,44 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+6.0,9.0,Sylvia atricapilla,Eurasian Blackcap,0.8755,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+9.0,12.0,Fringilla coelebs,Common Chaffinch,0.1065,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+78.0,81.0,Branta canadensis,Canada Goose,0.2609,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+96.0,99.0,Branta canadensis,Canada Goose,0.6387,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+102.0,105.0,Branta canadensis,Canada Goose,0.1650,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+144.0,147.0,Parus major,Great Tit,0.7958,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+168.0,171.0,Fulica atra,Eurasian Coot,0.2841,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+231.0,234.0,Emberiza schoeniclus,Reed Bunting,0.2448,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+234.0,237.0,Emberiza citrinella,Yellowhammer,0.3460,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+234.0,237.0,Actitis hypoleucos,Common Sandpiper,0.1692,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+249.0,252.0,Fringilla coelebs,Common Chaffinch,0.4347,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+264.0,267.0,Rallus aquaticus,Water Rail,0.1034,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+267.0,270.0,Fringilla coelebs,Common Chaffinch,0.2752,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+291.0,294.0,Corvus monedula,Eurasian Jackdaw,0.5818,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+291.0,294.0,Pica pica,Eurasian Magpie,0.2059,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+294.0,297.0,Corvus monedula,Eurasian Jackdaw,0.4697,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+306.0,309.0,Fulica atra,Eurasian Coot,0.1512,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+312.0,315.0,Anas crecca,Green-winged Teal,0.2393,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+372.0,375.0,Numenius arquata,Eurasian Curlew,0.6662,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+381.0,384.0,Turdus merula,Eurasian Blackbird,0.1561,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+384.0,387.0,Sylvia atricapilla,Eurasian Blackcap,0.3061,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+387.0,390.0,Branta canadensis,Canada Goose,0.1606,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+405.0,408.0,Parus major,Great Tit,0.6606,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+411.0,414.0,Parus major,Great Tit,0.5666,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+417.0,420.0,Sylvia atricapilla,Eurasian Blackcap,0.1135,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+429.0,432.0,Actitis hypoleucos,Common Sandpiper,0.1102,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+435.0,438.0,Actitis hypoleucos,Common Sandpiper,0.3763,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+438.0,441.0,Sylvia atricapilla,Eurasian Blackcap,0.1678,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+441.0,444.0,Sylvia atricapilla,Eurasian Blackcap,0.2509,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+468.0,471.0,Buteo buteo,Common Buzzard,0.1427,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+471.0,474.0,Actitis hypoleucos,Common Sandpiper,0.1775,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+480.0,483.0,Corvus corone,Carrion Crow,0.2342,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+480.0,483.0,Corvus cornix,Hooded Crow,0.1108,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+492.0,495.0,Falco tinnunculus,Eurasian Kestrel,0.9516,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+492.0,495.0,Falco subbuteo,Eurasian Hobby,0.1069,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+498.0,501.0,Falco tinnunculus,Eurasian Kestrel,0.7563,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+498.0,501.0,Falco subbuteo,Eurasian Hobby,0.4555,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+501.0,504.0,Falco tinnunculus,Eurasian Kestrel,0.5964,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+519.0,522.0,Falco tinnunculus,Eurasian Kestrel,0.9577,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+528.0,531.0,Falco tinnunculus,Eurasian Kestrel,0.1251,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+531.0,534.0,Lullula arborea,Wood Lark,0.1217,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+591.0,594.0,Actitis hypoleucos,Common Sandpiper,0.5111,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV
+597.0,600.0,Emberiza citrinella,Yellowhammer,0.1810,/Users/robbieleahy/Desktop/A034/20250427_150000.WAV

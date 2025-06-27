@@ -1,0 +1,154 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Emberiza calandra,Corn Bunting,0.2175,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+6.0,9.0,Turdus philomelos,Song Thrush,0.2725,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+9.0,12.0,Emberiza calandra,Corn Bunting,0.2042,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+15.0,18.0,Circus aeruginosus,Eurasian Marsh-Harrier,0.2615,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+33.0,36.0,Corvus corone,Carrion Crow,0.1890,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+36.0,39.0,Corvus corone,Carrion Crow,0.2124,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+36.0,39.0,Corvus frugilegus,Rook,0.1224,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+39.0,42.0,Emberiza schoeniclus,Reed Bunting,0.1103,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+51.0,54.0,Linaria cannabina,Eurasian Linnet,0.1945,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+54.0,57.0,Saxicola rubicola,European Stonechat,0.1378,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+63.0,66.0,Emberiza schoeniclus,Reed Bunting,0.1582,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+72.0,75.0,Alauda arvensis,Eurasian Skylark,0.4031,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+93.0,96.0,Turdus philomelos,Song Thrush,0.1518,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+102.0,105.0,Emberiza schoeniclus,Reed Bunting,0.1046,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+105.0,108.0,Emberiza schoeniclus,Reed Bunting,0.1126,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+108.0,111.0,Alauda arvensis,Eurasian Skylark,0.7540,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+111.0,114.0,Alauda arvensis,Eurasian Skylark,0.9682,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+114.0,117.0,Alauda arvensis,Eurasian Skylark,0.9687,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+117.0,120.0,Alauda arvensis,Eurasian Skylark,0.7374,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+120.0,123.0,Alauda arvensis,Eurasian Skylark,0.8778,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+141.0,144.0,Emberiza citrinella,Yellowhammer,0.3138,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+147.0,150.0,Buteo buteo,Common Buzzard,0.7544,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+150.0,153.0,Buteo buteo,Common Buzzard,0.3172,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+159.0,162.0,Emberiza citrinella,Yellowhammer,0.2081,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+180.0,183.0,Alauda arvensis,Eurasian Skylark,0.2702,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+183.0,186.0,Alauda arvensis,Eurasian Skylark,0.1370,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+183.0,186.0,Emberiza citrinella,Yellowhammer,0.1269,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+186.0,189.0,Alauda arvensis,Eurasian Skylark,0.1361,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+186.0,189.0,Saxicola rubicola,European Stonechat,0.1032,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+189.0,192.0,Alauda arvensis,Eurasian Skylark,0.1320,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+192.0,195.0,Alauda arvensis,Eurasian Skylark,0.1780,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+195.0,198.0,Alauda arvensis,Eurasian Skylark,0.1834,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+198.0,201.0,Motacilla flava,Western Yellow Wagtail,0.1131,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+201.0,204.0,Alauda arvensis,Eurasian Skylark,0.1095,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+210.0,213.0,Motacilla flava,Western Yellow Wagtail,0.1307,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+210.0,213.0,Alauda arvensis,Eurasian Skylark,0.1118,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+210.0,213.0,Emberiza schoeniclus,Reed Bunting,0.1054,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+219.0,222.0,Alauda arvensis,Eurasian Skylark,0.3185,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+219.0,222.0,Milvus milvus,Red Kite,0.1568,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+222.0,225.0,Alauda arvensis,Eurasian Skylark,0.1060,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+225.0,228.0,Alauda arvensis,Eurasian Skylark,0.1699,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+228.0,231.0,Alauda arvensis,Eurasian Skylark,0.1206,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+240.0,243.0,Emberiza schoeniclus,Reed Bunting,0.1047,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+249.0,252.0,Alauda arvensis,Eurasian Skylark,0.2223,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+249.0,252.0,Emberiza schoeniclus,Reed Bunting,0.1242,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+249.0,252.0,Motacilla flava,Western Yellow Wagtail,0.1031,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+252.0,255.0,Motacilla flava,Western Yellow Wagtail,0.1349,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+261.0,264.0,Alauda arvensis,Eurasian Skylark,0.2340,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+261.0,264.0,Turdus philomelos,Song Thrush,0.1237,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+264.0,267.0,Alauda arvensis,Eurasian Skylark,0.2620,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+267.0,270.0,Alauda arvensis,Eurasian Skylark,0.1973,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+270.0,273.0,Alauda arvensis,Eurasian Skylark,0.1025,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+279.0,282.0,Alauda arvensis,Eurasian Skylark,0.2966,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+279.0,282.0,Tringa nebularia,Common Greenshank,0.1197,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+282.0,285.0,Prunella modularis,Dunnock,0.1054,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+288.0,291.0,Emberiza schoeniclus,Reed Bunting,0.1328,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+291.0,294.0,Alauda arvensis,Eurasian Skylark,0.1177,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+294.0,297.0,Phylloscopus trochilus,Willow Warbler,0.1325,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+294.0,297.0,Alauda arvensis,Eurasian Skylark,0.1113,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+297.0,300.0,Alauda arvensis,Eurasian Skylark,0.4932,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+297.0,300.0,Turdus philomelos,Song Thrush,0.1072,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+297.0,300.0,Tringa nebularia,Common Greenshank,0.1065,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+300.0,303.0,Alauda arvensis,Eurasian Skylark,0.1399,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+303.0,306.0,Alauda arvensis,Eurasian Skylark,0.1484,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+312.0,315.0,Corvus corone,Carrion Crow,0.2616,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+315.0,318.0,Corvus corone,Carrion Crow,0.3220,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+315.0,318.0,Corvus frugilegus,Rook,0.1555,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+315.0,318.0,Emberiza calandra,Corn Bunting,0.1097,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+321.0,324.0,Alauda arvensis,Eurasian Skylark,0.2246,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+327.0,330.0,Haematopus ostralegus,Eurasian Oystercatcher,0.1729,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+330.0,333.0,Turdus philomelos,Song Thrush,0.1007,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+333.0,336.0,Corvus frugilegus,Rook,0.2397,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+333.0,336.0,Corvus corone,Carrion Crow,0.2184,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+336.0,339.0,Alauda arvensis,Eurasian Skylark,0.6943,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+336.0,339.0,Turdus philomelos,Song Thrush,0.1020,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+339.0,342.0,Alauda arvensis,Eurasian Skylark,0.4223,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+342.0,345.0,Hippolais polyglotta,Melodious Warbler,0.2913,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+345.0,348.0,Alauda arvensis,Eurasian Skylark,0.1408,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+351.0,354.0,Vanellus vanellus,Northern Lapwing,0.1799,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+354.0,357.0,Corvus corone,Carrion Crow,0.4112,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+354.0,357.0,Corvus frugilegus,Rook,0.3488,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+357.0,360.0,Alauda arvensis,Eurasian Skylark,0.3453,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+363.0,366.0,Alauda arvensis,Eurasian Skylark,0.5627,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+366.0,369.0,Alauda arvensis,Eurasian Skylark,0.2257,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+369.0,372.0,Turdus viscivorus,Mistle Thrush,0.1127,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+372.0,375.0,Turdus philomelos,Song Thrush,0.2181,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+372.0,375.0,Lullula arborea,Wood Lark,0.1104,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+378.0,381.0,Haematopus ostralegus,Eurasian Oystercatcher,0.6108,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+378.0,381.0,Alauda arvensis,Eurasian Skylark,0.1413,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+387.0,390.0,Corvus corone,Carrion Crow,0.1655,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+393.0,396.0,Alauda arvensis,Eurasian Skylark,0.1334,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+396.0,399.0,Alauda arvensis,Eurasian Skylark,0.1387,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+399.0,402.0,Emberiza schoeniclus,Reed Bunting,0.1318,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+402.0,405.0,Alauda arvensis,Eurasian Skylark,0.2018,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+405.0,408.0,Corvus corone,Carrion Crow,0.2882,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+405.0,408.0,Corvus frugilegus,Rook,0.2403,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+405.0,408.0,Turdus philomelos,Song Thrush,0.1839,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+408.0,411.0,Corvus corone,Carrion Crow,0.1181,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+414.0,417.0,Alauda arvensis,Eurasian Skylark,0.3107,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+417.0,420.0,Alauda arvensis,Eurasian Skylark,0.4279,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+417.0,420.0,Emberiza calandra,Corn Bunting,0.3533,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+429.0,432.0,Tringa nebularia,Common Greenshank,0.4974,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+429.0,432.0,Saxicola rubetra,Whinchat,0.2393,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+432.0,435.0,Alauda arvensis,Eurasian Skylark,0.2430,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+435.0,438.0,Alauda arvensis,Eurasian Skylark,0.3498,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+435.0,438.0,Turdus philomelos,Song Thrush,0.1268,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+438.0,441.0,Alauda arvensis,Eurasian Skylark,0.2916,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+441.0,444.0,Saxicola rubetra,Whinchat,0.1032,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+444.0,447.0,Turdus philomelos,Song Thrush,0.2021,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+444.0,447.0,Alauda arvensis,Eurasian Skylark,0.1601,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+447.0,450.0,Corvus corone,Carrion Crow,0.3254,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+447.0,450.0,Corvus frugilegus,Rook,0.1886,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+447.0,450.0,Alauda arvensis,Eurasian Skylark,0.1140,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+450.0,453.0,Tringa nebularia,Common Greenshank,0.1991,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+453.0,456.0,Alauda arvensis,Eurasian Skylark,0.1770,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+453.0,456.0,Emberiza calandra,Corn Bunting,0.1371,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+456.0,459.0,Alauda arvensis,Eurasian Skylark,0.2222,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+465.0,468.0,Haematopus ostralegus,Eurasian Oystercatcher,0.1316,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+468.0,471.0,Alauda arvensis,Eurasian Skylark,0.4450,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+468.0,471.0,Haematopus ostralegus,Eurasian Oystercatcher,0.1022,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+477.0,480.0,Corvus frugilegus,Rook,0.1984,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+480.0,483.0,Alauda arvensis,Eurasian Skylark,0.1900,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+483.0,486.0,Alauda arvensis,Eurasian Skylark,0.1685,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+486.0,489.0,Motacilla flava,Western Yellow Wagtail,0.3580,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+492.0,495.0,Alauda arvensis,Eurasian Skylark,0.2073,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+495.0,498.0,Alauda arvensis,Eurasian Skylark,0.4341,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+498.0,501.0,Alauda arvensis,Eurasian Skylark,0.3824,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+501.0,504.0,Alauda arvensis,Eurasian Skylark,0.3609,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+501.0,504.0,Corvus corone,Carrion Crow,0.3378,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+501.0,504.0,Corvus frugilegus,Rook,0.1280,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+501.0,504.0,Emberiza calandra,Corn Bunting,0.1043,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+504.0,507.0,Corvus corone,Carrion Crow,0.1811,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+504.0,507.0,Corvus frugilegus,Rook,0.1438,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+507.0,510.0,Alauda arvensis,Eurasian Skylark,0.1964,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+510.0,513.0,Curruca communis,Greater Whitethroat,0.1580,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+516.0,519.0,Corvus frugilegus,Rook,0.1784,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+519.0,522.0,Corvus frugilegus,Rook,0.1367,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+525.0,528.0,Lullula arborea,Wood Lark,0.1566,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+528.0,531.0,Lullula arborea,Wood Lark,0.1038,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+534.0,537.0,Alauda arvensis,Eurasian Skylark,0.1663,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+537.0,540.0,Alauda arvensis,Eurasian Skylark,0.2666,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+540.0,543.0,Emberiza schoeniclus,Reed Bunting,0.3149,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+543.0,546.0,Chloris chloris,European Greenfinch,0.1333,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+546.0,549.0,Turdus merula,Eurasian Blackbird,0.1349,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+570.0,573.0,Corvus frugilegus,Rook,0.1979,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+570.0,573.0,Corvus corone,Carrion Crow,0.1194,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+576.0,579.0,Alauda arvensis,Eurasian Skylark,0.1122,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+579.0,582.0,Alauda arvensis,Eurasian Skylark,0.1185,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+582.0,585.0,Alauda arvensis,Eurasian Skylark,0.1419,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+585.0,588.0,Alauda arvensis,Eurasian Skylark,0.1529,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+588.0,591.0,Alauda arvensis,Eurasian Skylark,0.1049,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+594.0,597.0,Corvus corone,Carrion Crow,0.2746,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV
+594.0,597.0,Corvus frugilegus,Rook,0.1874,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/BirdNet analyzer/A022\20250426_060000.WAV

@@ -1,0 +1,92 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Cuculus canorus,Common Cuckoo,0.5951,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+3.0,6.0,Cuculus canorus,Common Cuckoo,0.6570,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+6.0,9.0,Cuculus canorus,Common Cuckoo,0.7732,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+9.0,12.0,Cuculus canorus,Common Cuckoo,0.4958,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+12.0,15.0,Cuculus canorus,Common Cuckoo,0.7030,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+15.0,18.0,Cuculus canorus,Common Cuckoo,0.7316,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+18.0,21.0,Cuculus canorus,Common Cuckoo,0.5389,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+21.0,24.0,Cuculus canorus,Common Cuckoo,0.9360,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+24.0,27.0,Cuculus canorus,Common Cuckoo,0.6299,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+36.0,39.0,Cuculus canorus,Common Cuckoo,0.4564,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+39.0,42.0,Cuculus canorus,Common Cuckoo,0.5848,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+42.0,45.0,Cuculus canorus,Common Cuckoo,0.8893,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+45.0,48.0,Cuculus canorus,Common Cuckoo,0.5840,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+48.0,51.0,Cuculus canorus,Common Cuckoo,0.7111,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+51.0,54.0,Cuculus canorus,Common Cuckoo,0.8151,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+54.0,57.0,Cuculus canorus,Common Cuckoo,0.9544,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+57.0,60.0,Cuculus canorus,Common Cuckoo,0.5917,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+60.0,63.0,Cuculus canorus,Common Cuckoo,0.8833,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+63.0,66.0,Cuculus canorus,Common Cuckoo,0.5585,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+66.0,69.0,Cuculus canorus,Common Cuckoo,0.8500,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+69.0,72.0,Cuculus canorus,Common Cuckoo,0.8996,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+72.0,75.0,Cuculus canorus,Common Cuckoo,0.6338,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+105.0,108.0,Locustella naevia,Common Grasshopper-Warbler,0.1234,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+105.0,108.0,Emberiza schoeniclus,Reed Bunting,0.1032,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+111.0,114.0,Emberiza schoeniclus,Reed Bunting,0.1462,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+117.0,120.0,Emberiza schoeniclus,Reed Bunting,0.1388,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+132.0,135.0,Emberiza schoeniclus,Reed Bunting,0.1242,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+138.0,141.0,Emberiza schoeniclus,Reed Bunting,0.1355,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+141.0,144.0,Emberiza schoeniclus,Reed Bunting,0.1580,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+150.0,153.0,Emberiza schoeniclus,Reed Bunting,0.1450,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+156.0,159.0,Emberiza schoeniclus,Reed Bunting,0.1054,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+165.0,168.0,Emberiza schoeniclus,Reed Bunting,0.2125,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+174.0,177.0,Emberiza schoeniclus,Reed Bunting,0.1307,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+186.0,189.0,Anthus trivialis,Tree Pipit,0.1839,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+186.0,189.0,Emberiza schoeniclus,Reed Bunting,0.1096,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+189.0,192.0,Locustella luscinioides,Savi's Warbler,0.1072,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+192.0,195.0,Emberiza schoeniclus,Reed Bunting,0.1180,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+195.0,198.0,Emberiza schoeniclus,Reed Bunting,0.1374,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+198.0,201.0,Emberiza schoeniclus,Reed Bunting,0.1012,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+201.0,204.0,Emberiza schoeniclus,Reed Bunting,0.2261,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+201.0,204.0,Locustella naevia,Common Grasshopper-Warbler,0.1026,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+225.0,228.0,Emberiza schoeniclus,Reed Bunting,0.1326,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+282.0,285.0,Anthus trivialis,Tree Pipit,0.1781,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+291.0,294.0,Anthus trivialis,Tree Pipit,0.2041,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+303.0,306.0,Anthus trivialis,Tree Pipit,0.1043,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+318.0,321.0,Emberiza schoeniclus,Reed Bunting,0.1002,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+321.0,324.0,Emberiza schoeniclus,Reed Bunting,0.1034,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+327.0,330.0,Emberiza schoeniclus,Reed Bunting,0.2886,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+339.0,342.0,Emberiza schoeniclus,Reed Bunting,0.1586,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+351.0,354.0,Emberiza schoeniclus,Reed Bunting,0.5189,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+354.0,357.0,Emberiza schoeniclus,Reed Bunting,0.1011,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+357.0,360.0,Emberiza schoeniclus,Reed Bunting,0.1331,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+426.0,429.0,Anthus trivialis,Tree Pipit,0.1490,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+429.0,432.0,Anthus trivialis,Tree Pipit,0.3220,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+450.0,453.0,Phylloscopus trochilus,Willow Warbler,0.1095,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+459.0,462.0,Emberiza schoeniclus,Reed Bunting,0.1038,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+465.0,468.0,Emberiza schoeniclus,Reed Bunting,0.1365,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+468.0,471.0,Emberiza schoeniclus,Reed Bunting,0.1132,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+483.0,486.0,Emberiza schoeniclus,Reed Bunting,0.1279,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+486.0,489.0,Emberiza schoeniclus,Reed Bunting,0.1091,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+489.0,492.0,Locustella naevia,Common Grasshopper-Warbler,0.1121,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+498.0,501.0,Rallus aquaticus,Water Rail,0.2218,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+510.0,513.0,Emberiza schoeniclus,Reed Bunting,0.3381,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+513.0,516.0,Emberiza citrinella,Yellowhammer,0.2829,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+516.0,519.0,Emberiza citrinella,Yellowhammer,0.1257,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+519.0,522.0,Emberiza schoeniclus,Reed Bunting,0.1302,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+525.0,528.0,Emberiza citrinella,Yellowhammer,0.2051,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+525.0,528.0,Emberiza schoeniclus,Reed Bunting,0.1417,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+528.0,531.0,Emberiza citrinella,Yellowhammer,0.2778,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+528.0,531.0,Emberiza schoeniclus,Reed Bunting,0.1179,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+534.0,537.0,Emberiza citrinella,Yellowhammer,0.1096,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+534.0,537.0,Emberiza schoeniclus,Reed Bunting,0.1073,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+537.0,540.0,Emberiza schoeniclus,Reed Bunting,0.1982,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+540.0,543.0,Emberiza citrinella,Yellowhammer,0.3313,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+543.0,546.0,Alauda arvensis,Eurasian Skylark,0.1258,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+546.0,549.0,Emberiza citrinella,Yellowhammer,0.1327,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+546.0,549.0,Alauda arvensis,Eurasian Skylark,0.1207,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+549.0,552.0,Alauda arvensis,Eurasian Skylark,0.3562,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+552.0,555.0,Alauda arvensis,Eurasian Skylark,0.4489,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+555.0,558.0,Alauda arvensis,Eurasian Skylark,0.3487,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+564.0,567.0,Emberiza citrinella,Yellowhammer,0.1034,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+567.0,570.0,Emberiza citrinella,Yellowhammer,0.1157,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+573.0,576.0,Alauda arvensis,Eurasian Skylark,0.4671,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+576.0,579.0,Alauda arvensis,Eurasian Skylark,0.1474,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+579.0,582.0,Alauda arvensis,Eurasian Skylark,0.6617,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+582.0,585.0,Alauda arvensis,Eurasian Skylark,0.8055,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+585.0,588.0,Alauda arvensis,Eurasian Skylark,0.8617,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+588.0,591.0,Alauda arvensis,Eurasian Skylark,0.8296,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+591.0,594.0,Alauda arvensis,Eurasian Skylark,0.6379,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+594.0,597.0,Alauda arvensis,Eurasian Skylark,0.1973,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV
+597.0,600.0,Alauda arvensis,Eurasian Skylark,0.4294,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250428_060000.WAV

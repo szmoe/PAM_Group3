@@ -1,0 +1,54 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Alauda arvensis,Eurasian Skylark,0.1510,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+21.0,24.0,Alauda arvensis,Eurasian Skylark,0.1682,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+48.0,51.0,Alauda arvensis,Eurasian Skylark,0.2299,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+63.0,66.0,Buteo buteo,Common Buzzard,0.3256,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+66.0,69.0,Buteo buteo,Common Buzzard,0.4175,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+69.0,72.0,Buteo buteo,Common Buzzard,0.7784,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+96.0,99.0,Curruca communis,Greater Whitethroat,0.1380,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+96.0,99.0,Locustella naevia,Common Grasshopper-Warbler,0.1105,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+123.0,126.0,Mareca strepera,Gadwall,0.1452,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+138.0,141.0,Sylvia atricapilla,Eurasian Blackcap,0.2196,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+141.0,144.0,Sylvia atricapilla,Eurasian Blackcap,0.1598,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+144.0,147.0,Phylloscopus collybita,Common Chiffchaff,0.3774,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+150.0,153.0,Sylvia atricapilla,Eurasian Blackcap,0.1001,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+153.0,156.0,Aythya ferina,Common Pochard,0.1000,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+165.0,168.0,Sylvia atricapilla,Eurasian Blackcap,0.3094,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+210.0,213.0,Troglodytes troglodytes,Eurasian Wren,0.1994,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+219.0,222.0,Troglodytes troglodytes,Eurasian Wren,0.6133,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+228.0,231.0,Sylvia atricapilla,Eurasian Blackcap,0.1487,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+231.0,234.0,Troglodytes troglodytes,Eurasian Wren,0.3852,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+234.0,237.0,Charadrius dubius,Little Ringed Plover,0.1228,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+237.0,240.0,Sylvia atricapilla,Eurasian Blackcap,0.2526,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+240.0,243.0,Troglodytes troglodytes,Eurasian Wren,0.2747,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+252.0,255.0,Troglodytes troglodytes,Eurasian Wren,0.2548,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+255.0,258.0,Luscinia svecica,Bluethroat,0.1373,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+264.0,267.0,Luscinia svecica,Bluethroat,0.3035,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+264.0,267.0,Troglodytes troglodytes,Eurasian Wren,0.1138,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+270.0,273.0,Rallus aquaticus,Water Rail,0.1356,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+288.0,291.0,Troglodytes troglodytes,Eurasian Wren,0.2803,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+297.0,300.0,Troglodytes troglodytes,Eurasian Wren,0.1287,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+300.0,303.0,Troglodytes troglodytes,Eurasian Wren,0.7137,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+303.0,306.0,Sylvia atricapilla,Eurasian Blackcap,0.4786,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+324.0,327.0,Troglodytes troglodytes,Eurasian Wren,0.1589,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+342.0,345.0,Sylvia atricapilla,Eurasian Blackcap,0.2923,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+345.0,348.0,Troglodytes troglodytes,Eurasian Wren,0.4694,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+348.0,351.0,Sylvia atricapilla,Eurasian Blackcap,0.1525,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+354.0,357.0,Buteo buteo,Common Buzzard,0.8968,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+357.0,360.0,Buteo buteo,Common Buzzard,0.4739,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+360.0,363.0,Buteo buteo,Common Buzzard,0.1767,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+372.0,375.0,Luscinia svecica,Bluethroat,0.1476,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+381.0,384.0,Troglodytes troglodytes,Eurasian Wren,0.3813,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+393.0,396.0,Troglodytes troglodytes,Eurasian Wren,0.1156,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+405.0,408.0,Troglodytes troglodytes,Eurasian Wren,0.1383,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+456.0,459.0,Luscinia svecica,Bluethroat,0.1938,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+462.0,465.0,Anser anser,Graylag Goose,0.4219,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+477.0,480.0,Buteo buteo,Common Buzzard,0.3740,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+483.0,486.0,Buteo buteo,Common Buzzard,0.5841,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+483.0,486.0,Troglodytes troglodytes,Eurasian Wren,0.1810,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+486.0,489.0,Buteo buteo,Common Buzzard,0.1536,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+495.0,498.0,Anthus trivialis,Tree Pipit,0.1123,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+558.0,561.0,Buteo buteo,Common Buzzard,0.9226,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+561.0,564.0,Buteo buteo,Common Buzzard,0.1479,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+567.0,570.0,Buteo buteo,Common Buzzard,0.4123,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV
+597.0,600.0,Carduelis carduelis,European Goldfinch,0.1193,C:/Users/alfel/OneDrive/FELIX/Studium/Master/Soundscape Ecology/Report/Data processing/A035\20250427_110000.WAV

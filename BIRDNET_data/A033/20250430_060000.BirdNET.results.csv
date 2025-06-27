@@ -1,0 +1,182 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Corvus cornix,Hooded Crow,0.7244,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+0.0,3.0,Corvus corone,Carrion Crow,0.2662,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+3.0,6.0,Phylloscopus collybita,Common Chiffchaff,0.2614,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+3.0,6.0,Parus major,Great Tit,0.1091,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+9.0,12.0,Parus major,Great Tit,0.6373,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+9.0,12.0,Carduelis carduelis,European Goldfinch,0.1147,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+15.0,18.0,Parus major,Great Tit,0.2239,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+18.0,21.0,Phylloscopus collybita,Common Chiffchaff,0.2019,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+24.0,27.0,Emberiza schoeniclus,Reed Bunting,0.2172,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+24.0,27.0,Phylloscopus collybita,Common Chiffchaff,0.1147,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+33.0,36.0,Parus major,Great Tit,0.2057,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+42.0,45.0,Tringa ochropus,Green Sandpiper,0.1223,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+42.0,45.0,Phylloscopus collybita,Common Chiffchaff,0.1002,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+45.0,48.0,Phylloscopus collybita,Common Chiffchaff,0.1213,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+48.0,51.0,Phylloscopus collybita,Common Chiffchaff,0.2161,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+48.0,51.0,Tringa ochropus,Green Sandpiper,0.1240,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+54.0,57.0,Corvus cornix,Hooded Crow,0.7249,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+54.0,57.0,Corvus corone,Carrion Crow,0.3132,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+57.0,60.0,Corvus cornix,Hooded Crow,0.7466,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+57.0,60.0,Corvus corone,Carrion Crow,0.3274,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+60.0,63.0,Phylloscopus collybita,Common Chiffchaff,0.1249,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+63.0,66.0,Phylloscopus collybita,Common Chiffchaff,0.5513,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+66.0,69.0,Phylloscopus collybita,Common Chiffchaff,0.6918,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+69.0,72.0,Phylloscopus collybita,Common Chiffchaff,0.8319,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+69.0,72.0,Luscinia svecica,Bluethroat,0.1203,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+69.0,72.0,Emberiza schoeniclus,Reed Bunting,0.1081,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+72.0,75.0,Corvus cornix,Hooded Crow,0.7167,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+72.0,75.0,Corvus corone,Carrion Crow,0.3896,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+75.0,78.0,Corvus cornix,Hooded Crow,0.8080,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+75.0,78.0,Corvus corone,Carrion Crow,0.2738,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+78.0,81.0,Phylloscopus collybita,Common Chiffchaff,0.4837,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+81.0,84.0,Emberiza schoeniclus,Reed Bunting,0.1714,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+81.0,84.0,Parus major,Great Tit,0.1640,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+81.0,84.0,Phylloscopus collybita,Common Chiffchaff,0.1079,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+81.0,84.0,Luscinia svecica,Bluethroat,0.1069,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+84.0,87.0,Emberiza schoeniclus,Reed Bunting,0.4362,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+84.0,87.0,Phylloscopus collybita,Common Chiffchaff,0.2250,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+84.0,87.0,Luscinia svecica,Bluethroat,0.1011,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+87.0,90.0,Phylloscopus collybita,Common Chiffchaff,0.5351,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+87.0,90.0,Tringa ochropus,Green Sandpiper,0.4615,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+90.0,93.0,Phylloscopus collybita,Common Chiffchaff,0.2913,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+93.0,96.0,Phylloscopus collybita,Common Chiffchaff,0.3519,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+93.0,96.0,Phoenicurus phoenicurus,Common Redstart,0.1001,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+96.0,99.0,Phylloscopus collybita,Common Chiffchaff,0.3963,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+96.0,99.0,Emberiza schoeniclus,Reed Bunting,0.1126,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+99.0,102.0,Phylloscopus collybita,Common Chiffchaff,0.3732,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+99.0,102.0,Luscinia svecica,Bluethroat,0.1159,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+102.0,105.0,Luscinia svecica,Bluethroat,0.2551,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+105.0,108.0,Phylloscopus collybita,Common Chiffchaff,0.5597,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+105.0,108.0,Emberiza schoeniclus,Reed Bunting,0.1984,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+114.0,117.0,Emberiza schoeniclus,Reed Bunting,0.3312,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+114.0,117.0,Phylloscopus collybita,Common Chiffchaff,0.1962,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+114.0,117.0,Phylloscopus trochilus,Willow Warbler,0.1421,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+117.0,120.0,Emberiza schoeniclus,Reed Bunting,0.2553,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+117.0,120.0,Phylloscopus collybita,Common Chiffchaff,0.1235,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+120.0,123.0,Corvus cornix,Hooded Crow,0.5148,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+120.0,123.0,Corvus corone,Carrion Crow,0.2431,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+123.0,126.0,Phylloscopus collybita,Common Chiffchaff,0.4903,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+123.0,126.0,Tringa ochropus,Green Sandpiper,0.1321,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+126.0,129.0,Phylloscopus collybita,Common Chiffchaff,0.2600,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+126.0,129.0,Luscinia svecica,Bluethroat,0.1252,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+132.0,135.0,Phylloscopus collybita,Common Chiffchaff,0.7815,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+132.0,135.0,Phoenicurus phoenicurus,Common Redstart,0.1289,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+135.0,138.0,Corvus cornix,Hooded Crow,0.6416,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+135.0,138.0,Corvus corone,Carrion Crow,0.1799,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+138.0,141.0,Phylloscopus collybita,Common Chiffchaff,0.1261,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+141.0,144.0,Phylloscopus collybita,Common Chiffchaff,0.2671,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+144.0,147.0,Phylloscopus collybita,Common Chiffchaff,0.7311,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+144.0,147.0,Phoenicurus phoenicurus,Common Redstart,0.1711,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+144.0,147.0,Phylloscopus trochilus,Willow Warbler,0.1084,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+147.0,150.0,Phylloscopus collybita,Common Chiffchaff,0.5301,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+147.0,150.0,Phoenicurus phoenicurus,Common Redstart,0.3805,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+153.0,156.0,Curruca communis,Greater Whitethroat,0.1287,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+156.0,159.0,Phylloscopus collybita,Common Chiffchaff,0.3568,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+156.0,159.0,Phoenicurus phoenicurus,Common Redstart,0.1538,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+159.0,162.0,Phylloscopus collybita,Common Chiffchaff,0.1325,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+165.0,168.0,Phylloscopus collybita,Common Chiffchaff,0.2415,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+171.0,174.0,Phylloscopus collybita,Common Chiffchaff,0.3064,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+174.0,177.0,Phylloscopus collybita,Common Chiffchaff,0.1162,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+177.0,180.0,Phylloscopus collybita,Common Chiffchaff,0.5041,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+183.0,186.0,Phylloscopus collybita,Common Chiffchaff,0.4181,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+186.0,189.0,Phylloscopus collybita,Common Chiffchaff,0.1537,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+189.0,192.0,Phylloscopus collybita,Common Chiffchaff,0.3888,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+192.0,195.0,Corvus cornix,Hooded Crow,0.5766,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+192.0,195.0,Corvus corone,Carrion Crow,0.1548,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+195.0,198.0,Corvus cornix,Hooded Crow,0.7974,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+195.0,198.0,Corvus corone,Carrion Crow,0.2699,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+198.0,201.0,Phylloscopus collybita,Common Chiffchaff,0.1235,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+201.0,204.0,Emberiza schoeniclus,Reed Bunting,0.1711,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+201.0,204.0,Phylloscopus collybita,Common Chiffchaff,0.1365,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+213.0,216.0,Phylloscopus collybita,Common Chiffchaff,0.7494,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+231.0,234.0,Corvus cornix,Hooded Crow,0.6905,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+231.0,234.0,Corvus corone,Carrion Crow,0.3909,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+234.0,237.0,Corvus cornix,Hooded Crow,0.7437,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+234.0,237.0,Corvus corone,Carrion Crow,0.3635,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+243.0,246.0,Parus major,Great Tit,0.6944,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+246.0,249.0,Parus major,Great Tit,0.1586,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+249.0,252.0,Parus major,Great Tit,0.3126,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+255.0,258.0,Parus major,Great Tit,0.7946,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+261.0,264.0,Parus major,Great Tit,0.7670,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+264.0,267.0,Phylloscopus collybita,Common Chiffchaff,0.4450,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+264.0,267.0,Phoenicurus phoenicurus,Common Redstart,0.1049,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+267.0,270.0,Parus major,Great Tit,0.5998,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+270.0,273.0,Parus major,Great Tit,0.1031,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+270.0,273.0,Phylloscopus collybita,Common Chiffchaff,0.1020,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+276.0,279.0,Parus major,Great Tit,0.1153,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+279.0,282.0,Parus major,Great Tit,0.3495,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+285.0,288.0,Phylloscopus collybita,Common Chiffchaff,0.1924,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+288.0,291.0,Phylloscopus collybita,Common Chiffchaff,0.5095,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+288.0,291.0,Phoenicurus phoenicurus,Common Redstart,0.1039,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+291.0,294.0,Phylloscopus collybita,Common Chiffchaff,0.4087,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+291.0,294.0,Emberiza schoeniclus,Reed Bunting,0.1153,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+300.0,303.0,Linaria cannabina,Eurasian Linnet,0.2021,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+303.0,306.0,Parus major,Great Tit,0.2207,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+306.0,309.0,Emberiza schoeniclus,Reed Bunting,0.2058,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+312.0,315.0,Parus major,Great Tit,0.2656,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+318.0,321.0,Phylloscopus collybita,Common Chiffchaff,0.1481,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+321.0,324.0,Parus major,Great Tit,0.3018,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+321.0,324.0,Phylloscopus collybita,Common Chiffchaff,0.1983,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+321.0,324.0,Luscinia svecica,Bluethroat,0.1111,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+324.0,327.0,Parus major,Great Tit,0.1678,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+324.0,327.0,Luscinia svecica,Bluethroat,0.1121,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+324.0,327.0,Phylloscopus collybita,Common Chiffchaff,0.1106,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+327.0,330.0,Luscinia svecica,Bluethroat,0.1302,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+327.0,330.0,Phylloscopus collybita,Common Chiffchaff,0.1047,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+336.0,339.0,Phoenicurus phoenicurus,Common Redstart,0.1451,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+336.0,339.0,Luscinia svecica,Bluethroat,0.1272,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+339.0,342.0,Parus major,Great Tit,0.2054,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+339.0,342.0,Luscinia megarhynchos,Common Nightingale,0.1656,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+339.0,342.0,Phoenicurus phoenicurus,Common Redstart,0.1544,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+339.0,342.0,Luscinia svecica,Bluethroat,0.1506,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+342.0,345.0,Emberiza schoeniclus,Reed Bunting,0.1402,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+342.0,345.0,Luscinia svecica,Bluethroat,0.1346,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+342.0,345.0,Phoenicurus phoenicurus,Common Redstart,0.1032,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+342.0,345.0,Parus major,Great Tit,0.1010,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+348.0,351.0,Parus major,Great Tit,0.5777,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+351.0,354.0,Parus major,Great Tit,0.1140,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+357.0,360.0,Emberiza citrinella,Yellowhammer,0.1059,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+360.0,363.0,Parus major,Great Tit,0.1006,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+363.0,366.0,Parus major,Great Tit,0.2533,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+363.0,366.0,Emberiza citrinella,Yellowhammer,0.1480,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+372.0,375.0,Parus major,Great Tit,0.2724,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+381.0,384.0,Parus major,Great Tit,0.1552,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+384.0,387.0,Parus major,Great Tit,0.2085,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+387.0,390.0,Parus major,Great Tit,0.1310,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+387.0,390.0,Cyanistes caeruleus,Eurasian Blue Tit,0.1213,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+402.0,405.0,Parus major,Great Tit,0.1163,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+405.0,408.0,Parus major,Great Tit,0.1148,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+408.0,411.0,Falco subbuteo,Eurasian Hobby,0.1306,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+411.0,414.0,Cyanistes caeruleus,Eurasian Blue Tit,0.1313,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+417.0,420.0,Parus major,Great Tit,0.1083,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+420.0,423.0,Emberiza citrinella,Yellowhammer,0.1619,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+420.0,423.0,Parus major,Great Tit,0.1333,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+426.0,429.0,Emberiza schoeniclus,Reed Bunting,0.1590,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+429.0,432.0,Emberiza citrinella,Yellowhammer,0.1507,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+447.0,450.0,Parus major,Great Tit,0.1083,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+450.0,453.0,Parus major,Great Tit,0.2219,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+450.0,453.0,Lullula arborea,Wood Lark,0.1076,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+453.0,456.0,Parus major,Great Tit,0.1073,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+459.0,462.0,Parus major,Great Tit,0.2025,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+462.0,465.0,Parus major,Great Tit,0.1415,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+471.0,474.0,Parus major,Great Tit,0.1000,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+474.0,477.0,Actitis hypoleucos,Common Sandpiper,0.7959,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+480.0,483.0,Actitis hypoleucos,Common Sandpiper,0.1352,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+483.0,486.0,Prunella modularis,Dunnock,0.4853,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+489.0,492.0,Curruca communis,Greater Whitethroat,0.1641,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+492.0,495.0,Actitis hypoleucos,Common Sandpiper,0.1680,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+501.0,504.0,Emberiza schoeniclus,Reed Bunting,0.1734,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+501.0,504.0,Prunella modularis,Dunnock,0.1065,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+504.0,507.0,Luscinia svecica,Bluethroat,0.1746,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+510.0,513.0,Phylloscopus collybita,Common Chiffchaff,0.1352,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+510.0,513.0,Phoenicurus phoenicurus,Common Redstart,0.1207,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+510.0,513.0,Emberiza schoeniclus,Reed Bunting,0.1105,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+513.0,516.0,Emberiza schoeniclus,Reed Bunting,0.1221,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+516.0,519.0,Phylloscopus collybita,Common Chiffchaff,0.5252,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+528.0,531.0,Emberiza schoeniclus,Reed Bunting,0.1139,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+558.0,561.0,Rallus aquaticus,Water Rail,0.1813,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+558.0,561.0,Emberiza schoeniclus,Reed Bunting,0.1460,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+582.0,585.0,Curruca communis,Greater Whitethroat,0.3146,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+585.0,588.0,Rallus aquaticus,Water Rail,0.1135,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
+591.0,594.0,Rallus aquaticus,Water Rail,0.1004,/Users/robbieleahy/Desktop/A033/20250430_060000.WAV
