@@ -121,31 +121,213 @@ merged <- rbind(df1, df2, df3)
 write.csv(merged, "./Total_recorded_species/Species_list_Group3.csv", row.names = FALSE)
 
 ##-------------------------------------------------------------------------##
+# Clean the rest of the data
+# List all CSV files in a folder
+file_A021 <- list.files(path = "./BIRDNET_data/A021_Felix", pattern = "*.csv", full.names = TRUE)
+file_A022 <- list.files(path = "./BIRDNET_data/A022_Felix", pattern = "*.csv", full.names = TRUE)
+file_A023 <- list.files(path = "./BIRDNET_data/A023", pattern = "*.csv", full.names = TRUE)
+file_A026 <- list.files(path = "./BIRDNET_data/A026_Felix", pattern = "*.csv", full.names = TRUE)
+#file_A028 <- list.files(path = "./BIRDNET_data/A028", pattern = "*.csv", full.names = TRUE)
+file_A029 <- list.files(path = "./BIRDNET_data/A029_Maike", pattern = "*.csv", full.names = TRUE)
+#file_A031 <- list.files(path = "./BIRDNET_data/A031", pattern = "*.csv", full.names = TRUE)
+file_A032 <- list.files(path = "./BIRDNET_data/A032_Felix", pattern = "*.csv", full.names = TRUE)
+file_A033 <- list.files(path = "./BIRDNET_data/A033", pattern = "*.csv", full.names = TRUE)
+file_A034 <- list.files(path = "./BIRDNET_data/A034", pattern = "*.csv", full.names = TRUE)
+file_A035 <- list.files(path = "./BIRDNET_data/A035_Felix", pattern = "*.csv", full.names = TRUE)
+file_A036 <- list.files(path = "./BIRDNET_data/A036_Felix", pattern = "*.csv", full.names = TRUE)
+file_A037 <- list.files(path = "./BIRDNET_data/A037_Maike", pattern = "*.csv", full.names = TRUE)
+
+# Read all CSVs into a list of data frames
+dfs_A021 <- lapply(file_A021, read.csv)
+dfs_A022 <- lapply(file_A022, read.csv)
+dfs_A023 <- lapply(file_A023, read.csv)
+dfs_A026 <- lapply(file_A026, read.csv)
+#dfs_A028 <- lapply(file_A028, read.csv)
+dfs_A029 <- lapply(file_A029, read.csv)
+#dfs_A031 <- lapply(file_A031, read.csv)
+dfs_A032 <- lapply(file_A032, read.csv)
+dfs_A033 <- lapply(file_A033, read.csv)
+dfs_A034 <- lapply(file_A034, read.csv)
+dfs_A035 <- lapply(file_A035, read.csv)
+dfs_A036 <- lapply(file_A036, read.csv)
+dfs_A037 <- lapply(file_A037, read.csv)
+
+# Combine all data frames into one
+merged_A021 <- do.call(rbind, dfs_A021)
+merged_A022 <- do.call(rbind, dfs_A022)
+merged_A023 <- do.call(rbind, dfs_A023)
+merged_A026 <- do.call(rbind, dfs_A026)
+merged_A029 <- do.call(rbind, dfs_A029)
+merged_A032 <- do.call(rbind, dfs_A032)
+merged_A033 <- do.call(rbind, dfs_A033)
+merged_A034 <- do.call(rbind, dfs_A034)
+merged_A035 <- do.call(rbind, dfs_A035)
+merged_A036 <- do.call(rbind, dfs_A036)
+merged_A037 <- do.call(rbind, dfs_A037)
+
+# Remove duplicates based on 'Common.name' column
+merged_unique_A021 <- merged_A021[!duplicated(merged_A021$Common.name), ]
+merged_unique_A022 <- merged_A022[!duplicated(merged_A022$Common.name), ]
+merged_unique_A023 <- merged_A023[!duplicated(merged_A023$Common.name), ]
+merged_unique_A026 <- merged_A026[!duplicated(merged_A026$Common.name), ]
+merged_unique_A029 <- merged_A029[!duplicated(merged_A029$Common.name), ]
+merged_unique_A032 <- merged_A032[!duplicated(merged_A032$Common.name), ]
+merged_unique_A033 <- merged_A033[!duplicated(merged_A033$Common.name), ]
+merged_unique_A034 <- merged_A034[!duplicated(merged_A034$Common.name), ]
+merged_unique_A035 <- merged_A035[!duplicated(merged_A035$Common.name), ]
+merged_unique_A036 <- merged_A036[!duplicated(merged_A036$Common.name), ]
+merged_unique_A037 <- merged_A037[!duplicated(merged_A037$Common.name), ]
+
+# Add new column 'Site_ID' 
+merged_unique_A021$Audio_ID <- "A021"
+merged_unique_A021$Site_ID <- "1"
+merged_unique_A021 <- merged_unique_A021[c("Scientific.name", "Common.name", "Confidence" ,"Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A022$Audio_ID <- "A022"
+merged_unique_A022$Site_ID <- "15"
+merged_unique_A022 <- merged_unique_A022[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A023$Audio_ID <- "A023"
+merged_unique_A023$Site_ID <- "16"
+merged_unique_A023 <- merged_unique_A023[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A026$Audio_ID <- "A026"
+merged_unique_A026$Site_ID <- "19"
+merged_unique_A026 <- merged_unique_A026[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A029$Audio_ID <- "A029"
+merged_unique_A029$Site_ID <- "17"
+merged_unique_A029 <- merged_unique_A029[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A032$Audio_ID <- "A032"
+merged_unique_A032$Site_ID <- "18"
+merged_unique_A032 <- merged_unique_A032[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A033$Audio_ID <- "A033"
+merged_unique_A033$Site_ID <- "13"
+merged_unique_A033 <- merged_unique_A033[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A034$Audio_ID <- "A034"
+merged_unique_A034$Site_ID <- "12"
+merged_unique_A034 <- merged_unique_A034[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A035$Audio_ID <- "A035"
+merged_unique_A035$Site_ID <- "2"
+merged_unique_A035 <- merged_unique_A035[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A036$Audio_ID <- "A036"
+merged_unique_A036$Site_ID <- "3"
+merged_unique_A036 <- merged_unique_A036[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+merged_unique_A037$Audio_ID <- "A037"
+merged_unique_A037$Site_ID <- "14"
+merged_unique_A037 <- merged_unique_A037[c("Scientific.name", "Common.name", "Confidence", "Audio_ID",
+                                           "Site_ID")]
+
+# Save to new CSV
+write.csv(merged_unique_A021, "./Species_per_site/A021_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A022, "./Species_per_site/A022_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A023, "./Species_per_site/A023_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A026, "./Species_per_site/A026_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A029, "./Species_per_site/A029_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A032, "./Species_per_site/A032_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A033, "./Species_per_site/A033_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A034, "./Species_per_site/A034_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A035, "./Species_per_site/A035_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A036, "./Species_per_site/A036_merged.csv", row.names = FALSE)
+write.csv(merged_unique_A037, "./Species_per_site/A037_merged.csv", row.names = FALSE)
+
+# Read the two CSV files
+dfA021 <- read.csv("./Species_per_site/A021_merged.csv")
+dfA022 <- read.csv("./Species_per_site/A022_merged.csv")
+dfA023 <- read.csv("./Species_per_site/A023_merged.csv")
+dfA026 <- read.csv("./Species_per_site/A026_merged.csv")
+dfA029 <- read.csv("./Species_per_site/A029_merged.csv")
+dfA032 <- read.csv("./Species_per_site/A032_merged.csv")
+dfA033 <- read.csv("./Species_per_site/A033_merged.csv")
+dfA034 <- read.csv("./Species_per_site/A034_merged.csv")
+dfA035 <- read.csv("./Species_per_site/A035_merged.csv")
+dfA036 <- read.csv("./Species_per_site/A036_merged.csv")
+dfA037 <- read.csv("./Species_per_site/A037_merged.csv")
+
+# Merge by stacking rows (row-wise)
+merged_other <- rbind(dfA021, dfA022, dfA023, dfA026, dfA029, dfA032, dfA033,
+                      dfA034, dfA035, dfA036, dfA037)
+
+# Save to new CSV
+write.csv(merged_other, "./Species_per_group_member/A021_22_23_26_29_32_33_34_35_36_37_species_list_other.csv",
+          row.names = FALSE)
+
+# Merge with group 3 data
+dfother <- read.csv("./Species_per_group_member/A021_22_23_26_29_32_33_34_35_36_37_species_list_other.csv")
+dfgroup3 <- read.csv("./Total_recorded_species/Species_list_Group3.csv")
+merged_other_group3 <- rbind(dfother, dfgroup3)
+
+write.csv(merged_other_group3, "./Total_recorded_species/Species_list_other.csv",
+          row.names = FALSE)
+
+##-------------------------------------------------------------------------##
+
+# # Extract total recorded species
+# 
+# # Load data.table package
+# library(data.table)
+# 
+# # Read the CSV file
+# dt <- fread("./Total_recorded_species/Species_list_Group3.csv")
+# 
+# # Clean and merge by Scientific.name
+# cleaned <- dt[, .(
+#   Common.name = first(Common.name),
+#   Confidence = paste(round(unique(Confidence), 2), collapse = ",   "),
+#   Audio_IDs = paste(unique(Audio_ID), collapse = ",   "),
+#   Site_IDs = paste(unique(Site_ID), collapse = ",   ")
+# ), by = Scientific.name]
+# 
+# # View result
+# print(cleaned)
+# 
+# # Write to CSV
+# fwrite(cleaned, "./Total_recorded_species/Total_recorded_species_Group3.csv")
 
 # Extract total recorded species
 
 # Load data.table package
 library(data.table)
 
-# Read the CSV file
-dt <- fread("./Total_recorded_species/Species_list_Group3.csv")
+# Read CSV
+dt <- fread("./Total_recorded_species/Species_list_other.csv")
 
-# Clean and merge by Scientific.name
-cleaned <- dt[, .(
-  Common.name = first(Common.name),
-  Confidence = paste(round(unique(Confidence), 2), collapse = ",   "),
-  Audio_IDs = paste(unique(Audio_ID), collapse = ",   "),
-  Site_IDs = paste(unique(Site_ID), collapse = ",   ")
-), by = Scientific.name]
+# Process and merge by Scientific.name, keeping the correct links
+cleaned <- dt[, {
+  temp <- .SD[order(Confidence)]  # sort within group by Confidence
+  list(
+    Common.name = first(Common.name),
+    Confidence = paste(round(temp$Confidence, 2), collapse = ",   "),
+    Audio_IDs = paste(temp$Audio_ID, collapse = ",   "),
+    Site_IDs = paste(temp$Site_ID, collapse = ",   ")
+  )
+}, by = Scientific.name]
 
-# View result
 print(cleaned)
 
-# Write to CSV
-fwrite(cleaned, "./Total_recorded_species/Total_recorded_species_Group3.csv")
+# Write cleaned file
+fwrite(cleaned, "./Total_recorded_species/Total_recorded_species_other_sorted.csv")
+
+#----------------------------------------------------------------------------------#
 
 # Check the total number of species
-df <- read.csv("./Total_recorded_species/Total_recorded_species_Group3.csv")
+df <- read.csv("./Total_recorded_species/Total_recorded_species_other_sorted.csv")
 nrow(df)
 
 # Display species variations
@@ -154,13 +336,13 @@ library(tidyverse)
 library(chillR)
 
 # Read CSV file
-species_data <- read_csv("./Total_recorded_species/Species_list_Group3.csv")
+species_data <- read_csv("./Total_recorded_species/Species_list_other.csv")
 
 # Create presence/absence matrix
-# species_matrix <- species_data %>%
-#   distinct(Common.name, Site_ID) %>%
-#   mutate(present = 1) %>%
-#   pivot_wider(names_from = Site_ID, values_from = present, values_fill = 0)
+species_matrix <- species_data %>%
+  distinct(Common.name, Site_ID) %>%
+  mutate(present = 1) %>%
+  pivot_wider(names_from = Site_ID, values_from = present, values_fill = 0)
 
 # Convert to long format for ggplot
 species_long <- species_matrix %>%
@@ -170,7 +352,7 @@ levels(species_long$Site_ID)
 
 
 library(ggplot2)
-library(forcats)
+# library(forcats)
 
 # Change the character to numeric and display Site_ID in chronological order
 species_long$Site_ID <- factor(as.numeric(as.character(species_long$Site_ID)),
